@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "title": "용사 하렘파티는 어쩔 수 없잖아",
+  "format": "webp",
+  "characters": [
+    "leon",
+    "selenea",
+    "ria",
+    "adela",
+    "asterion",
+    "kairos",
+    "lilith",
+    "pico",
+    "graunde"
+  ],
+  "states": [
+    "01침착",
+    "02자신미소",
+    "03집중호감",
+    "04당황수줍",
+    "05불쾌경계",
+    "06걱정호기",
+    "07놀람경계",
+    "08고집결의",
+    "09안도냉소",
+    "10장난여유",
+    "11의심반항",
+    "12절제분노",
+    "13부드러운놀람",
+    "14차가운결의"
+  ],
+  "scenes": [
+    "watergate.webp",
+    "first-meeting.webp"
+  ]
+}

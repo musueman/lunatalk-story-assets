@@ -1,0 +1,625 @@
+{
+  "version": 1,
+  "title": "아포칼립스는 어쩔수 없잖아",
+  "format": "webp",
+  "characters": [
+    {
+      "code": "doyoon",
+      "name": "강도윤",
+      "images": [
+        {
+          "id": "01",
+          "situation": "평온",
+          "file": "chars/doyoon/01.webp"
+        },
+        {
+          "id": "02",
+          "situation": "기쁨행복",
+          "file": "chars/doyoon/02.webp"
+        },
+        {
+          "id": "03",
+          "situation": "감탄",
+          "file": "chars/doyoon/03.webp"
+        },
+        {
+          "id": "04",
+          "situation": "기대설렘",
+          "file": "chars/doyoon/04.webp"
+        },
+        {
+          "id": "05",
+          "situation": "다정함",
+          "file": "chars/doyoon/05.webp"
+        },
+        {
+          "id": "06",
+          "situation": "장난기",
+          "file": "chars/doyoon/06.webp"
+        },
+        {
+          "id": "07",
+          "situation": "수줍음머쓱함",
+          "file": "chars/doyoon/07.webp"
+        },
+        {
+          "id": "08",
+          "situation": "놀람당황",
+          "file": "chars/doyoon/08.webp"
+        },
+        {
+          "id": "09",
+          "situation": "슬픔",
+          "file": "chars/doyoon/09.webp"
+        },
+        {
+          "id": "10",
+          "situation": "분노짜증",
+          "file": "chars/doyoon/10.webp"
+        },
+        {
+          "id": "11",
+          "situation": "불신",
+          "file": "chars/doyoon/11.webp"
+        },
+        {
+          "id": "12",
+          "situation": "걱정불안",
+          "file": "chars/doyoon/12.webp"
+        },
+        {
+          "id": "13",
+          "situation": "공포",
+          "file": "chars/doyoon/13.webp"
+        },
+        {
+          "id": "14",
+          "situation": "다급함",
+          "file": "chars/doyoon/14.webp"
+        },
+        {
+          "id": "15",
+          "situation": "안도",
+          "file": "chars/doyoon/15.webp"
+        },
+        {
+          "id": "16",
+          "situation": "결의",
+          "file": "chars/doyoon/16.webp"
+        },
+        {
+          "id": "17",
+          "situation": "대화",
+          "file": "chars/doyoon/17.webp"
+        },
+        {
+          "id": "18",
+          "situation": "휴식",
+          "file": "chars/doyoon/18.webp"
+        },
+        {
+          "id": "19",
+          "situation": "식사",
+          "file": "chars/doyoon/19.webp"
+        },
+        {
+          "id": "20",
+          "situation": "창밖관찰",
+          "file": "chars/doyoon/20.webp"
+        },
+        {
+          "id": "21",
+          "situation": "걷기",
+          "file": "chars/doyoon/21.webp"
+        },
+        {
+          "id": "22",
+          "situation": "물자수색",
+          "file": "chars/doyoon/22.webp"
+        },
+        {
+          "id": "23",
+          "situation": "지도확인",
+          "file": "chars/doyoon/23.webp"
+        },
+        {
+          "id": "24",
+          "situation": "장비점검",
+          "file": "chars/doyoon/24.webp"
+        },
+        {
+          "id": "25",
+          "situation": "위협감지",
+          "file": "chars/doyoon/25.webp"
+        },
+        {
+          "id": "26",
+          "situation": "경고",
+          "file": "chars/doyoon/26.webp"
+        },
+        {
+          "id": "27",
+          "situation": "숨기",
+          "file": "chars/doyoon/27.webp"
+        },
+        {
+          "id": "28",
+          "situation": "쫓겨달리기",
+          "file": "chars/doyoon/28.webp"
+        },
+        {
+          "id": "29",
+          "situation": "뒤돌아보며도주",
+          "file": "chars/doyoon/29.webp"
+        },
+        {
+          "id": "30",
+          "situation": "장애물넘기",
+          "file": "chars/doyoon/30.webp"
+        },
+        {
+          "id": "31",
+          "situation": "방어자세",
+          "file": "chars/doyoon/31.webp"
+        },
+        {
+          "id": "32",
+          "situation": "공격",
+          "file": "chars/doyoon/32.webp"
+        },
+        {
+          "id": "33",
+          "situation": "회피",
+          "file": "chars/doyoon/33.webp"
+        },
+        {
+          "id": "34",
+          "situation": "밀쳐내기",
+          "file": "chars/doyoon/34.webp"
+        },
+        {
+          "id": "35",
+          "situation": "문버티기",
+          "file": "chars/doyoon/35.webp"
+        },
+        {
+          "id": "36",
+          "situation": "감싸보호",
+          "file": "chars/doyoon/36.webp"
+        },
+        {
+          "id": "37",
+          "situation": "숨고르기",
+          "file": "chars/doyoon/37.webp"
+        },
+        {
+          "id": "38",
+          "situation": "통증참기",
+          "file": "chars/doyoon/38.webp"
+        },
+        {
+          "id": "39",
+          "situation": "울음",
+          "file": "chars/doyoon/39.webp"
+        },
+        {
+          "id": "40",
+          "situation": "긴장풀린웃음",
+          "file": "chars/doyoon/40.webp"
+        }
+      ]
+    },
+    {
+      "code": "seokyung",
+      "name": "한서경",
+      "images": [
+        {
+          "id": "01",
+          "situation": "평온",
+          "file": "chars/seokyung/01.webp"
+        },
+        {
+          "id": "02",
+          "situation": "기쁨행복",
+          "file": "chars/seokyung/02.webp"
+        },
+        {
+          "id": "03",
+          "situation": "감탄",
+          "file": "chars/seokyung/03.webp"
+        },
+        {
+          "id": "04",
+          "situation": "기대설렘",
+          "file": "chars/seokyung/04.webp"
+        },
+        {
+          "id": "05",
+          "situation": "다정함",
+          "file": "chars/seokyung/05.webp"
+        },
+        {
+          "id": "06",
+          "situation": "장난기",
+          "file": "chars/seokyung/06.webp"
+        },
+        {
+          "id": "07",
+          "situation": "수줍음머쓱함",
+          "file": "chars/seokyung/07.webp"
+        },
+        {
+          "id": "08",
+          "situation": "놀람당황",
+          "file": "chars/seokyung/08.webp"
+        },
+        {
+          "id": "09",
+          "situation": "슬픔",
+          "file": "chars/seokyung/09.webp"
+        },
+        {
+          "id": "10",
+          "situation": "분노짜증",
+          "file": "chars/seokyung/10.webp"
+        },
+        {
+          "id": "11",
+          "situation": "불신",
+          "file": "chars/seokyung/11.webp"
+        },
+        {
+          "id": "12",
+          "situation": "걱정불안",
+          "file": "chars/seokyung/12.webp"
+        },
+        {
+          "id": "13",
+          "situation": "공포",
+          "file": "chars/seokyung/13.webp"
+        },
+        {
+          "id": "14",
+          "situation": "다급함",
+          "file": "chars/seokyung/14.webp"
+        },
+        {
+          "id": "15",
+          "situation": "안도",
+          "file": "chars/seokyung/15.webp"
+        },
+        {
+          "id": "16",
+          "situation": "결의",
+          "file": "chars/seokyung/16.webp"
+        },
+        {
+          "id": "17",
+          "situation": "대화",
+          "file": "chars/seokyung/17.webp"
+        },
+        {
+          "id": "18",
+          "situation": "휴식",
+          "file": "chars/seokyung/18.webp"
+        },
+        {
+          "id": "19",
+          "situation": "식사",
+          "file": "chars/seokyung/19.webp"
+        },
+        {
+          "id": "20",
+          "situation": "창밖관찰",
+          "file": "chars/seokyung/20.webp"
+        },
+        {
+          "id": "21",
+          "situation": "걷기",
+          "file": "chars/seokyung/21.webp"
+        },
+        {
+          "id": "22",
+          "situation": "물자수색",
+          "file": "chars/seokyung/22.webp"
+        },
+        {
+          "id": "23",
+          "situation": "지도확인",
+          "file": "chars/seokyung/23.webp"
+        },
+        {
+          "id": "24",
+          "situation": "장비점검",
+          "file": "chars/seokyung/24.webp"
+        },
+        {
+          "id": "25",
+          "situation": "위협감지",
+          "file": "chars/seokyung/25.webp"
+        },
+        {
+          "id": "26",
+          "situation": "경고",
+          "file": "chars/seokyung/26.webp"
+        },
+        {
+          "id": "27",
+          "situation": "숨기",
+          "file": "chars/seokyung/27.webp"
+        },
+        {
+          "id": "28",
+          "situation": "쫓겨달리기",
+          "file": "chars/seokyung/28.webp"
+        },
+        {
+          "id": "29",
+          "situation": "뒤돌아보며도주",
+          "file": "chars/seokyung/29.webp"
+        },
+        {
+          "id": "30",
+          "situation": "장애물넘기",
+          "file": "chars/seokyung/30.webp"
+        },
+        {
+          "id": "31",
+          "situation": "방어자세",
+          "file": "chars/seokyung/31.webp"
+        },
+        {
+          "id": "32",
+          "situation": "공격",
+          "file": "chars/seokyung/32.webp"
+        },
+        {
+          "id": "33",
+          "situation": "회피",
+          "file": "chars/seokyung/33.webp"
+        },
+        {
+          "id": "34",
+          "situation": "밀쳐내기",
+          "file": "chars/seokyung/34.webp"
+        },
+        {
+          "id": "35",
+          "situation": "문버티기",
+          "file": "chars/seokyung/35.webp"
+        },
+        {
+          "id": "36",
+          "situation": "감싸보호",
+          "file": "chars/seokyung/36.webp"
+        },
+        {
+          "id": "37",
+          "situation": "숨고르기",
+          "file": "chars/seokyung/37.webp"
+        },
+        {
+          "id": "38",
+          "situation": "통증참기",
+          "file": "chars/seokyung/38.webp"
+        },
+        {
+          "id": "39",
+          "situation": "울음",
+          "file": "chars/seokyung/39.webp"
+        },
+        {
+          "id": "40",
+          "situation": "긴장풀린웃음",
+          "file": "chars/seokyung/40.webp"
+        }
+      ]
+    },
+    {
+      "code": "chaerin",
+      "name": "윤채린",
+      "images": [
+        {
+          "id": "01",
+          "situation": "평온",
+          "file": "chars/chaerin/01.webp"
+        },
+        {
+          "id": "02",
+          "situation": "기쁨행복",
+          "file": "chars/chaerin/02.webp"
+        },
+        {
+          "id": "03",
+          "situation": "감탄",
+          "file": "chars/chaerin/03.webp"
+        },
+        {
+          "id": "04",
+          "situation": "기대설렘",
+          "file": "chars/chaerin/04.webp"
+        },
+        {
+          "id": "05",
+          "situation": "다정함",
+          "file": "chars/chaerin/05.webp"
+        },
+        {
+          "id": "06",
+          "situation": "장난기",
+          "file": "chars/chaerin/06.webp"
+        },
+        {
+          "id": "07",
+          "situation": "수줍음머쓱함",
+          "file": "chars/chaerin/07.webp"
+        },
+        {
+          "id": "08",
+          "situation": "놀람당황",
+          "file": "chars/chaerin/08.webp"
+        },
+        {
+          "id": "09",
+          "situation": "슬픔",
+          "file": "chars/chaerin/09.webp"
+        },
+        {
+          "id": "10",
+          "situation": "분노짜증",
+          "file": "chars/chaerin/10.webp"
+        },
+        {
+          "id": "11",
+          "situation": "불신",
+          "file": "chars/chaerin/11.webp"
+        },
+        {
+          "id": "12",
+          "situation": "걱정불안",
+          "file": "chars/chaerin/12.webp"
+        },
+        {
+          "id": "13",
+          "situation": "공포",
+          "file": "chars/chaerin/13.webp"
+        },
+        {
+          "id": "14",
+          "situation": "다급함",
+          "file": "chars/chaerin/14.webp"
+        },
+        {
+          "id": "15",
+          "situation": "안도",
+          "file": "chars/chaerin/15.webp"
+        },
+        {
+          "id": "16",
+          "situation": "결의",
+          "file": "chars/chaerin/16.webp"
+        },
+        {
+          "id": "17",
+          "situation": "대화",
+          "file": "chars/chaerin/17.webp"
+        },
+        {
+          "id": "18",
+          "situation": "휴식",
+          "file": "chars/chaerin/18.webp"
+        },
+        {
+          "id": "19",
+          "situation": "식사",
+          "file": "chars/chaerin/19.webp"
+        },
+        {
+          "id": "20",
+          "situation": "창밖관찰",
+          "file": "chars/chaerin/20.webp"
+        },
+        {
+          "id": "21",
+          "situation": "걷기",
+          "file": "chars/chaerin/21.webp"
+        },
+        {
+          "id": "22",
+          "situation": "물자수색",
+          "file": "chars/chaerin/22.webp"
+        },
+        {
+          "id": "23",
+          "situation": "지도확인",
+          "file": "chars/chaerin/23.webp"
+        },
+        {
+          "id": "24",
+          "situation": "장비점검",
+          "file": "chars/chaerin/24.webp"
+        },
+        {
+          "id": "25",
+          "situation": "위협감지",
+          "file": "chars/chaerin/25.webp"
+        },
+        {
+          "id": "26",
+          "situation": "경고",
+          "file": "chars/chaerin/26.webp"
+        },
+        {
+          "id": "27",
+          "situation": "숨기",
+          "file": "chars/chaerin/27.webp"
+        },
+        {
+          "id": "28",
+          "situation": "쫓겨달리기",
+          "file": "chars/chaerin/28.webp"
+        },
+        {
+          "id": "29",
+          "situation": "뒤돌아보며도주",
+          "file": "chars/chaerin/29.webp"
+        },
+        {
+          "id": "30",
+          "situation": "장애물넘기",
+          "file": "chars/chaerin/30.webp"
+        },
+        {
+          "id": "31",
+          "situation": "방어자세",
+          "file": "chars/chaerin/31.webp"
+        },
+        {
+          "id": "32",
+          "situation": "공격",
+          "file": "chars/chaerin/32.webp"
+        },
+        {
+          "id": "33",
+          "situation": "회피",
+          "file": "chars/chaerin/33.webp"
+        },
+        {
+          "id": "34",
+          "situation": "밀쳐내기",
+          "file": "chars/chaerin/34.webp"
+        },
+        {
+          "id": "35",
+          "situation": "문버티기",
+          "file": "chars/chaerin/35.webp"
+        },
+        {
+          "id": "36",
+          "situation": "감싸보호",
+          "file": "chars/chaerin/36.webp"
+        },
+        {
+          "id": "37",
+          "situation": "숨고르기",
+          "file": "chars/chaerin/37.webp"
+        },
+        {
+          "id": "38",
+          "situation": "통증참기",
+          "file": "chars/chaerin/38.webp"
+        },
+        {
+          "id": "39",
+          "situation": "울음",
+          "file": "chars/chaerin/39.webp"
+        },
+        {
+          "id": "40",
+          "situation": "긴장풀린웃음",
+          "file": "chars/chaerin/40.webp"
+        }
+      ]
+    }
+  ]
+}
