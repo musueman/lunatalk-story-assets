@@ -412,6 +412,21 @@
           "id": "40",
           "situation": "긴장풀린웃음",
           "file": "chars/seokyung/40.webp"
+        },
+        {
+          "id": "41",
+          "situation": "문틈엿보기",
+          "file": "chars/seokyung/41.webp"
+        },
+        {
+          "id": "42",
+          "situation": "문틈당황",
+          "file": "chars/seokyung/42.webp"
+        },
+        {
+          "id": "43",
+          "situation": "문틈긴장",
+          "file": "chars/seokyung/43.webp"
         }
       ]
     },
@@ -618,6 +633,21 @@
           "id": "40",
           "situation": "긴장풀린웃음",
           "file": "chars/chaerin/40.webp"
+        },
+        {
+          "id": "41",
+          "situation": "문틈엿보기",
+          "file": "chars/chaerin/41.webp"
+        },
+        {
+          "id": "42",
+          "situation": "문틈당황",
+          "file": "chars/chaerin/42.webp"
+        },
+        {
+          "id": "43",
+          "situation": "문틈긴장",
+          "file": "chars/chaerin/43.webp"
         }
       ]
     }
