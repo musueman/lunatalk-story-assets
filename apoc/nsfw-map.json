@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "title": "아포칼립스는 어쩔수 없잖아 · NSFW 검수 WebP",
+  "format": "webp",
+  "base_path": "apoc/nsfw",
+  "characters": {
+    "한서경": "seokyung",
+    "윤채린": "chaerin"
+  },
+  "slots": [
+    {"id":"01_base_foreplay_kiss","label":"전희·키스"},
+    {"id":"02_base_foreplay_breast_caress","label":"전희·가슴 애무"},
+    {"id":"03_base_foreplay_fingering","label":"전희·손 자극"},
+    {"id":"05_base_foreplay_handjob","label":"전희·손길"},
+    {"id":"06_base_foreplay_fellatio","label":"전희·구강"},
+    {"id":"07_base_foreplay_deepthroat","label":"전희·구강 심화"},
+    {"id":"08_base_foreplay_paizuri","label":"전희·가슴 자극"},
+    {"id":"10_base_sex_missionary","label":"성행위·정상위 시작"},
+    {"id":"11_climax_sex_missionary","label":"성행위·정상위 절정"},
+    {"id":"12_base_sex_doggy","label":"성행위·후배위 시작"},
+    {"id":"13_climax_sex_doggy","label":"성행위·후배위 절정"},
+    {"id":"14_base_sex_cowgirl","label":"성행위·기승위 시작"},
+    {"id":"15_climax_sex_cowgirl","label":"성행위·기승위 절정"},
+    {"id":"16_base_sex_side","label":"성행위·측위 시작"},
+    {"id":"17_climax_sex_side","label":"성행위·측위 절정"},
+    {"id":"18_base_sex_face_to_face_sitting","label":"성행위·대면 착석 시작"},
+    {"id":"19_climax_sex_face_to_face_sitting","label":"성행위·대면 착석 절정"},
+    {"id":"20b_climax_sex_lifted","label":"성행위·들어올리기 절정"}
+  ],
+  "source": "images_nsfw_final_reviewed_36_20261017",
+  "review": "36개(캐릭터별 18개) 직접 시각 검수 완료. 69, full_nelson, mating_press는 제외. 원본 PNG는 저장소에 넣지 않음."
+}
