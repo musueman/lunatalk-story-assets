@@ -17,7 +17,7 @@
   "call_contract": {
     "selection": "Use only an exact asset_code in this map. Never infer a path from character, myth, filename, prior project, or chat context.",
     "missing_or_unmapped_code": "no_image_call",
-    "publication_state": "local_conversion_complete_raw_validation_pending_push"
+    "publication_state": "raw_validation_recorded_in_raw-url-report.csv"
   },
   "character_registry": [
     {

@@ -43,7 +43,8 @@ or overwritten in this repository.
 | Background default path | background host → `Split-Path ... Path ... empty string`. | `$PSScriptRoot` was evaluated while binding a default parameter in that host. | Resolve `Destination` after parameter binding; pass `-Destination` explicitly. | Builder used `greek/`. |
 | Background runtime | `powershell.exe` host → `Get-FileHash ... not recognized`. | The background host differed from the PowerShell 7 session. | Launch the resolved `pwsh.exe` PowerShell 7 runtime. | SHA-256 generation proceeded. |
 | Code collision guard | builder → `Asset code collision detected`. | Korean NSFW filenames normalized to the same ASCII suffix. | Replace filename-derived public codes with explicit `Cxx` and `Sxx`/`Nxx` registry codes; preserve filenames only as labels. | 218 unique codes created. |
-| Final local run | `& .\tests\validate-greek-assets.ps1` | N/A | N/A | Pass: 218 manifest rows, 135 SFW, 83 NSFW, 218 map entries, 9 character codes, 218 pending-push Raw rows. |
+| Verifier defaults and failure evidence | calling the verifier without a report path resolved `tools/greek`, and a failed row threw before a report was written. | The script treated its `tools/` directory as the repository root and exported only after its failure check. | Resolve the parent of `tools/`; write a dated attempt report before checking failures; update the current successful report only after a wholly successful pass. | Failed attempts remain inspectable and cannot silently replace the last successful report. |
+| Final local conversion run | `& .\tests\validate-greek-assets.ps1` before publication | N/A | N/A | Pass: 218 manifest rows, 135 SFW, 83 NSFW, 218 map entries, 9 character codes, and 218 build-time pending-push Raw rows. |
 
 ## Publication state
 
@@ -53,6 +54,28 @@ At `2026-10-22T09:25:52+09:00`, all 218 URL rows in
 `raw-url-report.csv` were checked with `HEAD` and recorded `200` plus an
 `image/webp` content type. This establishes Raw delivery for that asset
 commit only.
+
+`source-manifest.csv` is an immutable build-time conversion snapshot: its
+`conversion_status=converted_local_not_published` values describe the point
+before the first push, not the current repository state. The current
+publication evidence is `raw-url-report.csv`; every later verifier run also
+writes a dated CSV under `raw-verification-attempts/` before it can report a
+failure. The verifier requests URLs pinned to the supplied full commit SHA,
+so its report cannot assign a mutable `/main/` response to a different commit.
+
+## Target repository published-state snapshot
+
+- Working repository: `C:\\Users\\musue\\Documents\\Codex\\2026-10-22\\greek-luna-4\\work\\lunatalk-story-assets-greek`
+- Remote (`origin`, fetch and push): `https://github.com/musueman/lunatalk-story-assets.git`
+- Working branch: `greek-assets-20261022`; publication target: `origin/main`.
+- Asset payload commit: `8789ab616a3ebdb10e5116d287b916f520d5cdd5` (`9184e18..8789ab6  HEAD -> main`).
+- First Raw-evidence commit: `cc5cac779ccc70083c727d4e792d0554e6146d8a` (`8789ab6..cc5cac7  HEAD -> main`).
+- At `2026-10-22T09:29:47+09:00`, the worktree was clean, contained 218 WebP
+  files, and `origin/main` equalled `cc5cac779ccc70083c727d4e792d0554e6146d8a`.
+- Raw report location: `C:\\Users\\musue\\Documents\\Codex\\2026-10-22\\greek-luna-4\\work\\lunatalk-story-assets-greek\\greek\\raw-url-report.csv`.
+- A separate fresh `HEAD` check at that snapshot returned `200` and
+  `image/webp` for
+  `https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/greek/sfw/C01/S01.webp`.
 
 LunaTalk save/reopen and live-chat image rendering are separate, unstarted
 gates. No claim in this repository establishes either one.

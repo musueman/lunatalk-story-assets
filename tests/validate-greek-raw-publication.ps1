@@ -9,6 +9,7 @@ $report = @(Import-Csv -LiteralPath (Join-Path $root 'greek/raw-url-report.csv')
 
 if ($report.Count -ne 218) { throw "expected 218 Raw URL rows, found $($report.Count)" }
 if (($report | Where-Object { $_.repository_commit -ne $RepositoryCommit }).Count) { throw 'Raw report does not cite the pushed asset commit' }
+if (($report | Where-Object { $_.raw_url -notmatch "/$RepositoryCommit/" }).Count) { throw 'Raw report must use commit-pinned URLs' }
 if (($report | Where-Object { $_.http_method -ne 'HEAD' }).Count) { throw 'Raw report must use HEAD checks' }
 if (($report | Where-Object { $_.http_status -ne '200' }).Count) { throw 'not every Raw URL returned HTTP 200' }
 if (($report | Where-Object { $_.content_type -notmatch '^image/webp(?:;|$)' }).Count) { throw 'not every Raw URL returned image/webp' }

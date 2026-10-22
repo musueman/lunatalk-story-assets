@@ -8,7 +8,7 @@ param(
 
 $ErrorActionPreference = 'Stop'
 if ([string]::IsNullOrWhiteSpace($Destination)) {
-    $Destination = Join-Path (Split-Path -Parent $PSCommandPath) 'greek'
+    $Destination = Join-Path (Split-Path -Parent (Split-Path -Parent $PSCommandPath)) 'greek'
 }
 
 function Get-ImageSize {
