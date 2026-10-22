@@ -40,6 +40,7 @@ foreach ($item in $map.items) {
 }
 
 if ($report.Count -ne 218) { throw "expected 218 Raw URL report rows, found $($report.Count)" }
-if (($report | Where-Object { $_.check_status -ne 'pending_push' }).Count -ne 0) { throw 'pre-push Raw report must label every row pending_push' }
+$rawStatuses = @($report | Select-Object -ExpandProperty check_status -Unique)
+if ($rawStatuses.Count -ne 1 -or $rawStatuses[0] -notin @('pending_push', 'verified')) { throw 'Raw report must be wholly pending_push or wholly verified' }
 
 Write-Output 'PASS: Greek local asset conversion contract is complete before publication verification.'

@@ -47,8 +47,12 @@ or overwritten in this repository.
 
 ## Publication state
 
-At this evidence revision, conversion and local mapping are complete but
-publication is not yet evidenced. `raw-url-report.csv` is deliberately marked
-`pending_push`; Git push/revision confirmation and `HEAD 200 image/webp`
-verification must be recorded separately. LunaTalk save/reopen and chat
-rendering are separate, unstarted gates.
+The asset commit `8789ab616a3ebdb10e5116d287b916f520d5cdd5` was pushed to
+`origin/main`; `git ls-remote origin refs/heads/main` returned the same SHA.
+At `2026-10-22T09:25:52+09:00`, all 218 URL rows in
+`raw-url-report.csv` were checked with `HEAD` and recorded `200` plus an
+`image/webp` content type. This establishes Raw delivery for that asset
+commit only.
+
+LunaTalk save/reopen and live-chat image rendering are separate, unstarted
+gates. No claim in this repository establishes either one.
