@@ -1,10 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "title": "홍콩 가는 건 참을 수 없잖아? · Luna 검열판 WebP",
   "format": "webp",
   "base_path": "hk",
   "path_pattern": "hk/<subject-code>/<two-digit-number>.webp",
+  "scene_path_pattern": "hk/scenes/<scene-key>.webp",
   "mapping_policy": "Subject-code meanings are maintained separately and are intentionally not published here.",
+  "scenes": [
+    "default-registration-center.webp",
+    "was-that-real-interview-room.webp",
+    "academy-student-practice-building.webp",
+    "academy-professor-office.webp"
+  ],
   "subjects": {
     "a": {"asset_count": 33},
     "b": {"asset_count": 15},
