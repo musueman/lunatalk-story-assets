@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "title": "홍콩 가는 건 참을 수 없잖아? · Luna 검열판 WebP",
+  "format": "webp",
+  "base_path": "hk",
+  "path_pattern": "hk/<subject-code>/<two-digit-number>.webp",
+  "mapping_policy": "Subject-code meanings are maintained separately and are intentionally not published here.",
+  "subjects": {
+    "a": {"asset_count": 33},
+    "b": {"asset_count": 15},
+    "c": {"asset_count": 33},
+    "d": {"asset_count": 15},
+    "e": {"asset_count": 33},
+    "f": {"asset_count": 15},
+    "g": {"asset_count": 33},
+    "h": {"asset_count": 15},
+    "i": {"asset_count": 15},
+    "j": {"asset_count": 15},
+    "k": {"asset_count": 33}
+  },
+  "slots": [
+    {"number": "01"}, {"number": "02"}, {"number": "03"},
+    {"number": "04"}, {"number": "05"}, {"number": "06"},
+    {"number": "07"}, {"number": "08"}, {"number": "09"},
+    {"number": "10"}, {"number": "11"}, {"number": "12"},
+    {"number": "13"}, {"number": "14"}, {"number": "15"},
+    {"number": "16"}, {"number": "17"}, {"number": "18"},
+    {"number": "19"}, {"number": "20"}, {"number": "21"},
+    {"number": "22"}, {"number": "23"}, {"number": "24"},
+    {"number": "25"}, {"number": "26"}, {"number": "27"},
+    {"number": "28"}, {"number": "29"}, {"number": "30"},
+    {"number": "31"}, {"number": "32"}, {"number": "33"}
+  ]
+}
