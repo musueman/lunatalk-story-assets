@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "title": "홍콩 가는 건 참을 수 없잖아? · Luna 검열판 WebP",
   "format": "webp",
   "base_path": "hk",
@@ -14,7 +14,8 @@
     "default-registration-center-v2.webp",
     "was-that-real-interview-room-v2.webp",
     "academy-student-practice-building-v2.webp",
-    "academy-professor-office-v2.webp"
+    "academy-professor-office-v2.webp",
+    "was-that-real-interview-room-v3.webp"
   ],
   "subjects": {
     "a": {"asset_count": 33},
