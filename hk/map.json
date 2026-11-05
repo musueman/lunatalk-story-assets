@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "title": "홍콩 가는 건 참을 수 없잖아? · Luna 검열판 WebP",
   "format": "webp",
   "base_path": "hk",
@@ -28,7 +28,9 @@
     "h": {"asset_count": 15},
     "i": {"asset_count": 15},
     "j": {"asset_count": 15},
-    "k": {"asset_count": 33}
+    "k": {"asset_count": 33},
+    "l": {"asset_count": 45},
+    "m": {"asset_count": 35}
   },
   "slots": [
     {"number": "01"}, {"number": "02"}, {"number": "03"},
