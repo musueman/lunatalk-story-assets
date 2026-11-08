@@ -1,0 +1,954 @@
+[
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "M00",
+    "emotion": "대표",
+    "key": "GR-028_M00_a07",
+    "source_sha256": "24fc66308321e96b6911ee5d5dd653e4f7dc1663e644d501aaaadd272576922e",
+    "path": "g/e0.webp",
+    "sha256": "cfcbb7a5eb7992c54f6f35a0e177a76302a6489a364a00342bf14c2ab64ffa65",
+    "bytes": 1161732,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e0.webp"
+  },
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "E01",
+    "emotion": "기본",
+    "key": "GR-028_E01_a08",
+    "source_sha256": "3b92697329f0df6898ebdb21b0e83759e65c945c4ad8d8fb21f5981ce68bde93",
+    "path": "g/e1.webp",
+    "sha256": "f5c58e489e9c1988e0aadd5f7d2773c3f7b8d02dacbadec511510cadb00615f7",
+    "bytes": 1229682,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e1.webp"
+  },
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "E02",
+    "emotion": "기쁨",
+    "key": "GR-028_E02_a08",
+    "source_sha256": "8d1e55e4a5ca9231de60078ea931fc8145fe42a83275ec4e559fef13913c5836",
+    "path": "g/e2.webp",
+    "sha256": "0adb810153436a33c3489daf2b9fdf5748687b42e2bd870c1f61b077bbb08f6b",
+    "bytes": 1213662,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e2.webp"
+  },
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "E03",
+    "emotion": "분노",
+    "key": "GR-028_E03_a09",
+    "source_sha256": "6832e9af1a78461290c272a7b8c0c1ac27a30bd6d624c582087340e3f6782a28",
+    "path": "g/e3.webp",
+    "sha256": "634f20e4e0b165435d5a341a4370697ec04d8d5063429cd5bd1c10047e044590",
+    "bytes": 1158320,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e3.webp"
+  },
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "E04",
+    "emotion": "슬픔",
+    "key": "GR-028_E04_a09",
+    "source_sha256": "429bcc0e1b3f6477a85c5506128412be6c06e38998ff09ec324dba99c3f466f2",
+    "path": "g/e4.webp",
+    "sha256": "f175d8b60f8101b2432298db0e449c9701a8896c1da9e0ed09651e70ffcbf68f",
+    "bytes": 1131114,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e4.webp"
+  },
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "E05",
+    "emotion": "놀람",
+    "key": "GR-028_E05_a08",
+    "source_sha256": "1370db7a1c8227ad7e012fc741381063e547e55f5d1211112c7a6476a5a56ec9",
+    "path": "g/e5.webp",
+    "sha256": "b02ef5e8af0b268778da523f9ee8258025db8d116d80d24b29b540e4c2b65de9",
+    "bytes": 1201142,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e5.webp"
+  },
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "E06",
+    "emotion": "당황",
+    "key": "GR-028_E06_a09",
+    "source_sha256": "1849f31caa270540f6acbdf3b32284766eb98e689698c8bbb2d4f181d9703420",
+    "path": "g/e6.webp",
+    "sha256": "4e836637bf86bf38e14f8ff9ac634fe3e1e611c943c12599c399fff3e1f5c6d4",
+    "bytes": 1175424,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e6.webp"
+  },
+  {
+    "name": "데메테르",
+    "id": "GR-028",
+    "slot": "E07",
+    "emotion": "부끄러움",
+    "key": "GR-028_E07_a08",
+    "source_sha256": "d8cf90bcdbcb905e98b4e5b9397435265c5b701a8143fba42b116128f7e208f9",
+    "path": "g/e7.webp",
+    "sha256": "0bf69ce51dab2f6a315842dfc7a01852aa897958b888ee22f1dea23fc6bcc865",
+    "bytes": 1164860,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/e7.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "M00",
+    "emotion": "대표",
+    "key": "GR-031_M00_a03",
+    "source_sha256": "b2f0add6f741ef45df8cd67cd3a5cbfa3022787e703a5858d534fe65367671fc",
+    "path": "g/d0.webp",
+    "sha256": "a14a404678ab64820a3fe5e90816c26726d10208b77e0fc8ec7c60962890e6fd",
+    "bytes": 1040166,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d0.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "E01",
+    "emotion": "기본",
+    "key": "GR-031_E01_a04",
+    "source_sha256": "85adedcabfe82466c1e9384dc8ce434e567401d01a45a204ea4970c5c9610b67",
+    "path": "g/d1.webp",
+    "sha256": "859dd1dd2c4e860e99310872036051669531e82ac55469b4bb32ef7dc9bb1f0c",
+    "bytes": 1093594,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d1.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "E02",
+    "emotion": "기쁨",
+    "key": "GR-031_E02_a04",
+    "source_sha256": "686cf2bcb6b2101a841768bbe5afc9d3dede28dc236cd8430ac179a29056d8ed",
+    "path": "g/d2.webp",
+    "sha256": "803180929743497013807fa40897d547781585fbc05b26079a64f1a185106911",
+    "bytes": 1087516,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d2.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "E03",
+    "emotion": "분노",
+    "key": "GR-031_E03_a05",
+    "source_sha256": "cab862e834f19b5849d027fd5e7b8e79d7aaa5651980535112f041b976094ff3",
+    "path": "g/d3.webp",
+    "sha256": "062cf5779fb0dbf9ab98041a380e1926507340f7cfb383034722b8cdac7245e0",
+    "bytes": 1091718,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d3.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "E04",
+    "emotion": "슬픔",
+    "key": "GR-031_E04_a05",
+    "source_sha256": "0eaa2f9247a05b97782d4639a57ee6831f1cec0f6bf02bdb46d5524df413f814",
+    "path": "g/d4.webp",
+    "sha256": "c63cf19dfaa208bb14ebf1aa44ab1661885cdca26e6ccca37960d108d6dadd6e",
+    "bytes": 1056366,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d4.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "E05",
+    "emotion": "놀람",
+    "key": "GR-031_E05_a04",
+    "source_sha256": "2e6714fc26553309c127dca2d6d616aa95ce1d21033221541bdd8ab77e2877d2",
+    "path": "g/d5.webp",
+    "sha256": "43b68fc44767cb0426686e99a50475b17505bf6fcdde82946e72e0b6a989806b",
+    "bytes": 1055016,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d5.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "E06",
+    "emotion": "당황",
+    "key": "GR-031_E06_a05",
+    "source_sha256": "256dfe392c03c07ff8580df85daee83e49217a17ffb85e9dc4c0126929031bd2",
+    "path": "g/d6.webp",
+    "sha256": "37b2a4eabc1bcf7d6e251b99c9ee6b64b6860579339e1f36623a904f312cfcd0",
+    "bytes": 1008042,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d6.webp"
+  },
+  {
+    "name": "헤르메스",
+    "id": "GR-031",
+    "slot": "E07",
+    "emotion": "부끄러움",
+    "key": "GR-031_E07_a04",
+    "source_sha256": "c931184a299713c1bbbe73d93fcd1c25eff85710e1024b41b14ec310e9131e80",
+    "path": "g/d7.webp",
+    "sha256": "670572be269ed9c11037776e11afb24b18888f1211df69bd4d71854338e4bd77",
+    "bytes": 1059690,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/d7.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "M00",
+    "emotion": "대표",
+    "key": "GR-032_M00_a03",
+    "source_sha256": "5a8f24533a1a72817fa34a348e3095cadcc27367da367c8292305c5c6f6bcad6",
+    "path": "g/b0.webp",
+    "sha256": "5467be3befa3c8ada6070a7099335d383d06771b7e58db39f346b263be391c25",
+    "bytes": 994486,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b0.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "E01",
+    "emotion": "기본",
+    "key": "GR-032_E01_a04",
+    "source_sha256": "dab47dd15183e1428d24039538901aaab298ba27cfcb0eaa278a1baee7012f31",
+    "path": "g/b1.webp",
+    "sha256": "cfa7e526155dbe232bb36613d01c38e2866a535acac673bd3278c2a2f02094e5",
+    "bytes": 1044042,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b1.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "E02",
+    "emotion": "기쁨",
+    "key": "GR-032_E02_a04",
+    "source_sha256": "888232d1cd1c852831b191818454698e95f575e916adb4bbc54839919d572176",
+    "path": "g/b2.webp",
+    "sha256": "c814d6deef61f38c1eec8e4378cee631e7ea5d76c3abcfaa026e95b9cb86c18f",
+    "bytes": 1077524,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b2.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "E03",
+    "emotion": "분노",
+    "key": "GR-032_E03_a05",
+    "source_sha256": "5bae893a55393bea6753733ae0b0c35e4e048d51e5e3a2730d7bf849a0ff6f23",
+    "path": "g/b3.webp",
+    "sha256": "06b42099c91a06db74ba67b271478bdc2c85ad2a7f3b43183c739e046c83ab97",
+    "bytes": 1062502,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b3.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "E04",
+    "emotion": "슬픔",
+    "key": "GR-032_E04_a05",
+    "source_sha256": "72292afb4c6440ec9a4d789aafa19e38b805d80e4713f249e0b9f4faa4a0c942",
+    "path": "g/b4.webp",
+    "sha256": "9f8e4c548fabe75dab128ddd684a6b0d1437c1fed80fee53fea0c727a48c5fbc",
+    "bytes": 1026302,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b4.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "E05",
+    "emotion": "놀람",
+    "key": "GR-032_E05_a04",
+    "source_sha256": "f6715b99a45c0008cffe0f5df2145a5d208ca38cc975cfc47535d147c38dd618",
+    "path": "g/b5.webp",
+    "sha256": "b4d0b02410b7ffef62154ddec3c5cb0e2f6313bf04a68af296c44908c6d0d419",
+    "bytes": 1043462,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b5.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "E06",
+    "emotion": "당황",
+    "key": "GR-032_E06_a05",
+    "source_sha256": "81a5c7d54db846c9ad853613840e3d9df17a2c7f46d1a83ff9d86496077afb3b",
+    "path": "g/b6.webp",
+    "sha256": "9c61e5db56dfcaecdb0b22bfb907a6b240f5c6e8e3e90d33a644a4816eac0297",
+    "bytes": 1017072,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b6.webp"
+  },
+  {
+    "name": "아폴론",
+    "id": "GR-032",
+    "slot": "E07",
+    "emotion": "부끄러움",
+    "key": "GR-032_E07_a04",
+    "source_sha256": "3006dacaa7b20e1b86307b3b1e21f6fb4ae6f0a013a454f45a0a73aea34a1277",
+    "path": "g/b7.webp",
+    "sha256": "02a789067f1daf202e91ba9171e55494e0513ecdfdd596b1b0013a68b520478f",
+    "bytes": 976938,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/b7.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "M00",
+    "emotion": "대표",
+    "key": "GR-033_M00_a02",
+    "source_sha256": "44b31696036a903ae4e28fd3bc72095d3f477ea936d4cf3b75a29ca6c40ccaa3",
+    "path": "g/a0.webp",
+    "sha256": "838b1e932ee8b219eccc8dcd5d1b855207791ed7df78d1fd4719ca47cf40d544",
+    "bytes": 914946,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a0.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "E01",
+    "emotion": "기본",
+    "key": "GR-033_E01_a04",
+    "source_sha256": "5dbc78ffcd3fe5844f5b059f9d73fbd70337ffbed35299074b35180ff42a8970",
+    "path": "g/a1.webp",
+    "sha256": "f944f707f869c46bfb86cdeffa8153b4a7497b7c10677f03420001b94acf6877",
+    "bytes": 918380,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a1.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "E02",
+    "emotion": "기쁨",
+    "key": "GR-033_E02_a04",
+    "source_sha256": "f53af7f494d7700652adc38755f82339fc5b415fd8cfb318aa7aebac354e5d26",
+    "path": "g/a2.webp",
+    "sha256": "8ed00b8808c45143009a986bdc92b6683044148b3e6392b9348c55813031db6e",
+    "bytes": 955836,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a2.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "E03",
+    "emotion": "분노",
+    "key": "GR-033_E03_a05",
+    "source_sha256": "fbabb27afe4aef300a8d44f8eaddb13f8fc9232491bdb4e4b9a0e3d6f2112164",
+    "path": "g/a3.webp",
+    "sha256": "7fa6d253b247f77529a89d518036bfff210a1fe5275fe30a560f485ceab15d19",
+    "bytes": 969994,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a3.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "E04",
+    "emotion": "슬픔",
+    "key": "GR-033_E04_a05",
+    "source_sha256": "71400d42323c756805f8963c845c5481bb91dfabf25491a620d28ee56676db0e",
+    "path": "g/a4.webp",
+    "sha256": "515024ab39809abbccd3665d0332663edbf70ca79b9d7d39eb3ea78c5a1b3a26",
+    "bytes": 961856,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a4.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "E05",
+    "emotion": "놀람",
+    "key": "GR-033_E05_a04",
+    "source_sha256": "acc338421d199f9c6b4e671ec6a82a0fa6df4f0d3a172445435f8e0ca20e6cd1",
+    "path": "g/a5.webp",
+    "sha256": "682e3aaf6889d567758846bc14cc7928cc3b76883dfcb3f56c0b4e523cc77b96",
+    "bytes": 927458,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a5.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "E06",
+    "emotion": "당황",
+    "key": "GR-033_E06_a05",
+    "source_sha256": "48f00dd4a2e0b1c231b6476368c54c182de92f02632d12cf554765e2ee87e892",
+    "path": "g/a6.webp",
+    "sha256": "b0676896884e061ce5af8407fd37bc7c10c4cdfa69f0ad96450dbe6ec288ef9c",
+    "bytes": 910912,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a6.webp"
+  },
+  {
+    "name": "아테나",
+    "id": "GR-033",
+    "slot": "E07",
+    "emotion": "부끄러움",
+    "key": "GR-033_E07_a04",
+    "source_sha256": "42a8c03e1cb3fe3ab86b3923a8680585800679a1086557e3fe689be83fe64556",
+    "path": "g/a7.webp",
+    "sha256": "61b9aa452d243b6db7d303eab4f85e7a8bcfe4dd173f262d0612a035fb3542bf",
+    "bytes": 925796,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/a7.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "M00",
+    "emotion": "대표",
+    "key": "GR-034_M00_a05",
+    "source_sha256": "33a525482adb1663ce5d035e7216d938d6efe1e42879c9e7d16ccb0a6ae6c30e",
+    "path": "g/c0.webp",
+    "sha256": "31910a850d7a33e7f726d3f2d2600b09bb80921a14ce79f855e0287429319803",
+    "bytes": 797664,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c0.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "E01",
+    "emotion": "기본",
+    "key": "GR-034_E01_a06",
+    "source_sha256": "29760ff67f5a775ad2e6cc27a6aef72f053316810d5fc462a48c4ec7e4b03ffe",
+    "path": "g/c1.webp",
+    "sha256": "4bd96abd614555154752783b125803f50927560acd5a552a1fa559f5f6ca7b37",
+    "bytes": 775486,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c1.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "E02",
+    "emotion": "기쁨",
+    "key": "GR-034_E02_a06",
+    "source_sha256": "6ede3e50a0c13b0606415712566350d5e2b4d381792b61cb020f746a34985ea0",
+    "path": "g/c2.webp",
+    "sha256": "711744f7ea8d155dd87200572833649b7a189696a7d2fefd236dd92cfb85f01a",
+    "bytes": 798636,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c2.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "E03",
+    "emotion": "분노",
+    "key": "GR-034_E03_a07",
+    "source_sha256": "50e55f62060d7c047fb8152ea65208b0265f7c908701ffffe84e1bcd8040a3ee",
+    "path": "g/c3.webp",
+    "sha256": "e09391092a6e6d918be64d5d5bd8b110b1a5bcc6e449b15ed2113f3546aa0dc3",
+    "bytes": 788238,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c3.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "E04",
+    "emotion": "슬픔",
+    "key": "GR-034_E04_a07",
+    "source_sha256": "a504d4ec2bb0ef1441857954a5829cdcca3b00f4c70f96adb36e4217fa73c022",
+    "path": "g/c4.webp",
+    "sha256": "a7a046f599767c297734a3a19154e50d4f9a0450d435bbb7a3fa90073d0f26e4",
+    "bytes": 801976,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c4.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "E05",
+    "emotion": "놀람",
+    "key": "GR-034_E05_a06",
+    "source_sha256": "0900d052c9301e69142a56531cc35b54cd02edbf7d0de38a308f8f39e35c2771",
+    "path": "g/c5.webp",
+    "sha256": "bc0a30b93c430d1340e134618dec9bba9a8e6e056452f7632dc554e95ee3172b",
+    "bytes": 779100,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c5.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "E06",
+    "emotion": "당황",
+    "key": "GR-034_E06_a07",
+    "source_sha256": "408f41686175df617b032889215ed89dc67e2be9324a9f1e618759e42ae21d18",
+    "path": "g/c6.webp",
+    "sha256": "01ddd5429f6e8a0fc50d7380b86e8b094b1d74f287a108fc511797868f067a81",
+    "bytes": 776656,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c6.webp"
+  },
+  {
+    "name": "아르테미스",
+    "id": "GR-034",
+    "slot": "E07",
+    "emotion": "부끄러움",
+    "key": "GR-034_E07_a06",
+    "source_sha256": "51f137c0f99981cabf62bd76a422b2f748f136c68926f0055c6de7c2892f0efe",
+    "path": "g/c7.webp",
+    "sha256": "164e670aa1802f742b6fd02bb6c5b79366ae6e3083d655cf685ad256425a6f72",
+    "bytes": 794166,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/c7.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "M00",
+    "emotion": "대표",
+    "key": "GR-035_M00_a04",
+    "source_sha256": "d253861cb4446550cf3a52f8ec799d0fe283ea5845974cf57f90b2cf71b9881e",
+    "path": "g/f0.webp",
+    "sha256": "b16d0ae4d010d2a24031d81f11077e457a3e3cd66ad5cbcb787cac8a970b9f4d",
+    "bytes": 1040624,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f0.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "E01",
+    "emotion": "기본",
+    "key": "GR-035_E01_a05",
+    "source_sha256": "1808358a8a884e4d01ea32ad63303dbbe0c2f182c511473fbab2f2af40df9ec4",
+    "path": "g/f1.webp",
+    "sha256": "45c2ab2a4365eba4bfd9e01c5c7ab777566a3ba18f86b6bbe0822ef5a76ab96d",
+    "bytes": 1082678,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f1.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "E02",
+    "emotion": "기쁨",
+    "key": "GR-035_E02_a05",
+    "source_sha256": "bc2b39c0a0339c3fb9e96bee2b4b7965d9875f0fdf4ec032dcc19ff0f0b880d7",
+    "path": "g/f2.webp",
+    "sha256": "aab2622edbdf06f8d74640c685634e209c46d6e33bd17296ef864ae5238bf008",
+    "bytes": 1083954,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f2.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "E03",
+    "emotion": "분노",
+    "key": "GR-035_E03_a06",
+    "source_sha256": "58d7cba181e08fca93033d6101e1afea025d32c2a6edeb646ea4987433b94665",
+    "path": "g/f3.webp",
+    "sha256": "e7d2184cd7642ad6392a27bc8b5f6ca9072a95233af83e6c40711a5316af64a0",
+    "bytes": 1049028,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f3.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "E04",
+    "emotion": "슬픔",
+    "key": "GR-035_E04_a06",
+    "source_sha256": "70750affc5a9cc6d47c67f53d20f2913a66a7d4c7c0e37e3209648f601ee3fb9",
+    "path": "g/f4.webp",
+    "sha256": "45d138382789dff4598de7f1452c3a2f49823ca5c64766b831ab37791286bd26",
+    "bytes": 1059018,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f4.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "E05",
+    "emotion": "놀람",
+    "key": "GR-035_E05_a05",
+    "source_sha256": "7be6d295ee1eb4333d433ad461c3ba5be7e15aaaf7fcced8cc422d8f494b8a42",
+    "path": "g/f5.webp",
+    "sha256": "742a02c859af5c479463bd2e18813c40764bffbed0c2832f2f83c7b35ce413d7",
+    "bytes": 1083324,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f5.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "E06",
+    "emotion": "당황",
+    "key": "GR-035_E06_a06",
+    "source_sha256": "0e7aa088ea6a2e1b5777cab06fe4c06ec3fbce63711b6f82c3461995d860759a",
+    "path": "g/f6.webp",
+    "sha256": "366bbf9339a9a5aaf484ce3fd37cb803c72feefccc117e178d62eb1bf5ba2ef7",
+    "bytes": 1007776,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f6.webp"
+  },
+  {
+    "name": "디오니소스",
+    "id": "GR-035",
+    "slot": "E07",
+    "emotion": "부끄러움",
+    "key": "GR-035_E07_a05",
+    "source_sha256": "ef49fe838bd289869b015e77abafeefefa2c6e86ac9a11fd15bab668714cb71e",
+    "path": "g/f7.webp",
+    "sha256": "3499ac8ff4f19a30e141970378ce47b366ad39ae86fcd842784e93df8c573fa9",
+    "bytes": 1040524,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/f7.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "M00",
+    "emotion": "대표",
+    "key": "GR-036_M00_a03",
+    "source_sha256": "36b8003503e440f1a5670b2fdda6fe626c927a58e31bd8d355493fe4af6bb528",
+    "path": "g/g0.webp",
+    "sha256": "b71e4cda308b5f961348d23f2fa1d4a574cb480597d5dd3031f256d2b4fcc43e",
+    "bytes": 1142108,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g0.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "E01",
+    "emotion": "기본",
+    "key": "GR-036_E01_a04",
+    "source_sha256": "cd8759f1655ff5d54920a00a7ec7d03859fa02f3eb2571ca342db3ebd722de02",
+    "path": "g/g1.webp",
+    "sha256": "5af35adbd8f0959e14a6dc7462ad38ee7e5c8aef59084a83363d4a77f041dba5",
+    "bytes": 1188324,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g1.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "E02",
+    "emotion": "기쁨",
+    "key": "GR-036_E02_a04",
+    "source_sha256": "b319e47e5c4c153e0e4c1765104f7f2be9745620b188f5186071bbc3e33fb9f9",
+    "path": "g/g2.webp",
+    "sha256": "90c619c47864bc864ab9501f1ae6d9f8bd774d78d1ab268aa095497b7903d69d",
+    "bytes": 1180386,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g2.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "E03",
+    "emotion": "분노",
+    "key": "GR-036_E03_a05",
+    "source_sha256": "5be1c19131a52c45a32eae53430455145d2c78647188dce26f07bbb04b0bff33",
+    "path": "g/g3.webp",
+    "sha256": "dfd301b97e84d83777cf777b56085da6bb0be70ce6a065cb0a35aabdc0ded13b",
+    "bytes": 1089954,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g3.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "E04",
+    "emotion": "슬픔",
+    "key": "GR-036_E04_a05",
+    "source_sha256": "a798f85b4995b2ae1a91927b63efcfa742b8f99fc036acff781f2a50f88a244f",
+    "path": "g/g4.webp",
+    "sha256": "a116948ac416210eff72d34796787b2da366728868004d9e192816f21d792a12",
+    "bytes": 1111216,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "needs_revision",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g4.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "E05",
+    "emotion": "놀람",
+    "key": "GR-036_E05_a04",
+    "source_sha256": "485083c43f9907ffad3e42fadf2e6054244411aa61f2ecd0ab380f3c8705f2ea",
+    "path": "g/g5.webp",
+    "sha256": "d434938dbbf7b1a1966cacf5e3f0c31bb724b56eb45261ef72ced2373c2ea899",
+    "bytes": 1155610,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g5.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "E06",
+    "emotion": "당황",
+    "key": "GR-036_E06_a05",
+    "source_sha256": "e4e45a4943d611df32a8dd03d4dcc87573d1c6cd4faa61ce6b6105aa67ee6763",
+    "path": "g/g6.webp",
+    "sha256": "62468bf75f979b311e9619e324e3e9ecaeae3827040852b6573da43663898502",
+    "bytes": 1061434,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g6.webp"
+  },
+  {
+    "name": "헤스티아",
+    "id": "GR-036",
+    "slot": "E07",
+    "emotion": "부끄러움",
+    "key": "GR-036_E07_a04",
+    "source_sha256": "99b881a472e59faabc69e406c01bbbe9e612168a1fa3d8a74ccea4751168a88d",
+    "path": "g/g7.webp",
+    "sha256": "d7b220448914a6ef8be94a92a43bedc79494e1d9ba31c37026b63cc54bfb4c44",
+    "bytes": 1195070,
+    "dimensions": [
+      1280,
+      960
+    ],
+    "source_review": "candidate",
+    "url": "https://cdn.jsdelivr.net/gh/musueman/lunatalk-story-assets/g/g7.webp"
+  }
+]
