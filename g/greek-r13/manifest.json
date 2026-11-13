@@ -1,0 +1,1049 @@
+{
+  "at": "2026-11-13T04:58:14.828081+00:00",
+  "run": "greek_additional_characters_20261113_r1",
+  "format": "WebP",
+  "total": 49,
+  "source_preserved": true,
+  "source_dimensions": [
+    1280,
+    960
+  ],
+  "dimensions": [
+    960,
+    720
+  ],
+  "quality": 78,
+  "method": 6,
+  "repository_root": "g/greek-r13",
+  "entries": [
+    {
+      "id": "GR-518",
+      "name": "에우리노메",
+      "slug": "eurynome",
+      "slot": "E01",
+      "source_png_sha256": "03883cf8edf561d6f0117f593af879b699281a54d24115bde7a65bc977b08a70",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-518/E01.webp",
+      "webp_sha256": "3eb87c125cdcf0cb60e711124ccfffba06bb9b0947397e299fdcb349085b5b66",
+      "bytes": 88904,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-518",
+      "name": "에우리노메",
+      "slug": "eurynome",
+      "slot": "E02",
+      "source_png_sha256": "2b3557cdc36e27f1ffd787380460f1b9e443ff7a1e6c1a1822dca605681b4149",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-518/E02.webp",
+      "webp_sha256": "b86c95b6ccd2d077b8961506e418a381198694e1373c4617a684065c8421464e",
+      "bytes": 91254,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-518",
+      "name": "에우리노메",
+      "slug": "eurynome",
+      "slot": "E03",
+      "source_png_sha256": "a0d310c64be30fe34104025b174370eb5873632a949308bb59021008f60456b2",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-518/E03.webp",
+      "webp_sha256": "d53cef7d6bfe28e029507ed86653a207ac071f8b854d25f3faa8061b74c3d011",
+      "bytes": 87410,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-518",
+      "name": "에우리노메",
+      "slug": "eurynome",
+      "slot": "E04",
+      "source_png_sha256": "08615271e61e14b959fdb3a0ba30f1ab826570c5ee89859f5ebb1c9dea3df7a5",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-518/E04.webp",
+      "webp_sha256": "12097c2ea84111a07dae546714751330d33d7e6399343752e33b4742f8ab8479",
+      "bytes": 86554,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-518",
+      "name": "에우리노메",
+      "slug": "eurynome",
+      "slot": "E05",
+      "source_png_sha256": "0fa755711da23ace1fd00c36deb75970754a61f579885bcd3add182b8e004664",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-518/E05.webp",
+      "webp_sha256": "bda9f255c753658d06b940bdede7483e6d698f80ce9ef77f544535ef59227933",
+      "bytes": 88722,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-518",
+      "name": "에우리노메",
+      "slug": "eurynome",
+      "slot": "E06",
+      "source_png_sha256": "1d116915c91fcd4dddbb2c08e76b36d10adf13fb12710973f68b5b332827926c",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-518/E06.webp",
+      "webp_sha256": "5a532c049e06c702bb2cf45e96b08795bd677d9c2bf97857b3b0bd28070ebed3",
+      "bytes": 88010,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-518",
+      "name": "에우리노메",
+      "slug": "eurynome",
+      "slot": "E07",
+      "source_png_sha256": "18f6dae4d97c50cbe91e6103edf65a4bece7907e44c596ced857bb853f979a19",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-518/E07.webp",
+      "webp_sha256": "bba8eb85922a0e47741c0452e1d9c069051cf6d5637ca9d59f76f13a095e5dff",
+      "bytes": 88690,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-519",
+      "name": "오피온",
+      "slug": "ophion",
+      "slot": "E01",
+      "source_png_sha256": "605e68fc7e6d947898575144a5839343aded02386beec1f179f36d756b0d2536",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-519/E01.webp",
+      "webp_sha256": "6f6766016e87ee8780b9ac2e5974afe0db65fcf660f655467ae24db7282b33ad",
+      "bytes": 90870,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-519",
+      "name": "오피온",
+      "slug": "ophion",
+      "slot": "E02",
+      "source_png_sha256": "f14c2a347ee74e55c3360a98db3c167932b13c1329442d13fe2ffb48bc87cba2",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-519/E02.webp",
+      "webp_sha256": "b68a5927f5a14e7a89f1de938fcefedbd0cce97ca6ed72e52f60413cf18a0f73",
+      "bytes": 95556,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-519",
+      "name": "오피온",
+      "slug": "ophion",
+      "slot": "E03",
+      "source_png_sha256": "fe297b13abf07e28e199f8e9b16dc398d7413488b03164ca0533a13333258a64",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-519/E03.webp",
+      "webp_sha256": "745214f7de95f2b18c11bfb3bfc166e456fe6b99c26ca8742b83671e2f593c72",
+      "bytes": 90088,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-519",
+      "name": "오피온",
+      "slug": "ophion",
+      "slot": "E04",
+      "source_png_sha256": "86a8337f59d3a8a6df3811a34bc94061df272d640e1e6235a6625fab95ab728e",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-519/E04.webp",
+      "webp_sha256": "5f4b0b838dce591d58542b0799dc5d986d90f57fff03e36c8875e34b975ab9e1",
+      "bytes": 79472,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-519",
+      "name": "오피온",
+      "slug": "ophion",
+      "slot": "E05",
+      "source_png_sha256": "178450503288787836ce01ca673e1cd0da14fd34adcf5cc9505b5a6636cd1e85",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-519/E05.webp",
+      "webp_sha256": "c7f123b0e09bccc95bd5165b15bea1e4a5dab0690e7f61b389f64ceef6ca00fa",
+      "bytes": 86850,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-519",
+      "name": "오피온",
+      "slug": "ophion",
+      "slot": "E06",
+      "source_png_sha256": "5aa4e82a2b00788477e821218450082fbafa9c3a459a945fc331cdc073d0b786",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-519/E06.webp",
+      "webp_sha256": "de30db2f20a4112f2695a50f8c12929d92e99c77f4d732cbd706d4ced051c91e",
+      "bytes": 91792,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-519",
+      "name": "오피온",
+      "slug": "ophion",
+      "slot": "E07",
+      "source_png_sha256": "c6715961ce551fd5afc45407821ef49830ab27d41961003118b69cc296d75f0f",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-519/E07.webp",
+      "webp_sha256": "5f6fb7f8929c7cee45ffe4688f24026f3b79e66492bcb67d6f58904e4575f8cb",
+      "bytes": 91084,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-520",
+      "name": "크리사오르",
+      "slug": "chrysaor",
+      "slot": "E01",
+      "source_png_sha256": "a810d99b779bd9a9f4b47ce8c75912985aef689b814ed881e55476bd37575fa3",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-520/E01.webp",
+      "webp_sha256": "ef53283edaf1eca075d8c08bccfe57948fae276c41a2dc4ed05312f721d29a02",
+      "bytes": 72620,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-520",
+      "name": "크리사오르",
+      "slug": "chrysaor",
+      "slot": "E02",
+      "source_png_sha256": "e3d51aab5268f5860546393e3fec839245a34c401073ddde7273f137fe7ec053",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-520/E02.webp",
+      "webp_sha256": "5eae7e1266396d4d5456cace3ffb76ff0e3cffd4f91b49c1f57fd130617a5674",
+      "bytes": 76072,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-520",
+      "name": "크리사오르",
+      "slug": "chrysaor",
+      "slot": "E03",
+      "source_png_sha256": "f68d9462b64798c4d9e0836640a18966a884bad5d9011085a3de3adfe5f11d0e",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-520/E03.webp",
+      "webp_sha256": "5f7c433386fb4a15dd0168717d97d8bbd5730959cb0d391252aeaa9ddf8f9d9c",
+      "bytes": 77056,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-520",
+      "name": "크리사오르",
+      "slug": "chrysaor",
+      "slot": "E04",
+      "source_png_sha256": "fc864eaf7e8ea85234afa82ddfe4d85cefdbd09a5a5cf0330528f5d3cc63d711",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-520/E04.webp",
+      "webp_sha256": "1a5c3e118adcd0f408a3e08665306c9276481fabce99786a41325559be8c400d",
+      "bytes": 78104,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-520",
+      "name": "크리사오르",
+      "slug": "chrysaor",
+      "slot": "E05",
+      "source_png_sha256": "9020d244535e143593bfbf348b095d27b5f64e787e993b104f2d26a7376c09af",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-520/E05.webp",
+      "webp_sha256": "a964c8bcff9ecd63d4737f1b8694957167a8bd98bdcb765a0bfdb0607db9ff4c",
+      "bytes": 74690,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-520",
+      "name": "크리사오르",
+      "slug": "chrysaor",
+      "slot": "E06",
+      "source_png_sha256": "07801f9613481fa2fecf91c07f8e5824e4d600ac98c5d99cd899841f8c7f7d39",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-520/E06.webp",
+      "webp_sha256": "1159ed0087953869340fd3f9cce9a70b2d11ee7d2e73f16095b893d8c6457520",
+      "bytes": 75218,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-520",
+      "name": "크리사오르",
+      "slug": "chrysaor",
+      "slot": "E07",
+      "source_png_sha256": "49915abb9900abb3923e9d1743ae65c311f2367f0f4c869ded9aa2fa4785ea50",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-520/E07.webp",
+      "webp_sha256": "72e4818d17c87943c9518f65c645fc75b717316ca310e151494cccb710c07d16",
+      "bytes": 76472,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-521",
+      "name": "포코스",
+      "slug": "phocus",
+      "slot": "E01",
+      "source_png_sha256": "28d0975e6af82c9e082a954b40222b0fd5ddc4d7db072558fa769b919cac4745",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-521/E01.webp",
+      "webp_sha256": "83410fd03f7f5010916a4de7c153d4c42832c2909ee62a05347c52e6742427c9",
+      "bytes": 76770,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-521",
+      "name": "포코스",
+      "slug": "phocus",
+      "slot": "E02",
+      "source_png_sha256": "ee335039c1dc58e598ffe830e432e5acfdcb711850a6d2ad64ae85208e1e73db",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-521/E02.webp",
+      "webp_sha256": "8db5eaf44dce9d492f8db41a8254f9de15370af5995e7a774f8cf1b8a8906016",
+      "bytes": 80704,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-521",
+      "name": "포코스",
+      "slug": "phocus",
+      "slot": "E03",
+      "source_png_sha256": "dd996da883887d7c17d4cc8dceb448c7ad3a7ac186c852d2988678405549d45f",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-521/E03.webp",
+      "webp_sha256": "cd2eb37fda9985ae20fc1aa79e9b077515faed51caf839efffd56c712cf43fa3",
+      "bytes": 69574,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-521",
+      "name": "포코스",
+      "slug": "phocus",
+      "slot": "E04",
+      "source_png_sha256": "8e3ad060eebef2c371ac57a40d0eae53d0a6fe098382feed44792c64ec967cf3",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-521/E04.webp",
+      "webp_sha256": "e27e103f4d2ed3440ee2119d30ee2efca29c4c9544d353fc8c42a42837e7a52f",
+      "bytes": 70632,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-521",
+      "name": "포코스",
+      "slug": "phocus",
+      "slot": "E05",
+      "source_png_sha256": "3fc01b9760a3435560ad27bc2ab1bb4b68da10f9be097085521238fce4cc7160",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-521/E05.webp",
+      "webp_sha256": "8e112924699d4aee8f076e32a36d5f7e10661689031e117415ff473157daff49",
+      "bytes": 76714,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-521",
+      "name": "포코스",
+      "slug": "phocus",
+      "slot": "E06",
+      "source_png_sha256": "6f7f25cd376f37ac14f3d63eb103a9421d48e9973172646240190aeb5cec03b6",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-521/E06.webp",
+      "webp_sha256": "42b1bbf109a0ee5733359f2fe2054fb6bb216d1bc67e3065eef80116b40bb2cc",
+      "bytes": 78172,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-521",
+      "name": "포코스",
+      "slug": "phocus",
+      "slot": "E07",
+      "source_png_sha256": "56cd567ccac43563fd74dd4c7576d7e4674e067124433295b13fb310339b1bb1",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-521/E07.webp",
+      "webp_sha256": "0036a0f367f710adc7ea7e4e97dd672213c9132700601114bee176bc2badd324",
+      "bytes": 74842,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-522",
+      "name": "페르세스",
+      "slug": "perses",
+      "slot": "E01",
+      "source_png_sha256": "e0fb78ede91b9b7c17b9a911d7f8a5358a8948095ae81e127908d3df0d188710",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-522/E01.webp",
+      "webp_sha256": "005f846bc8f8635b1834f1bf7b834aedca7535844f28db0c977264de6b0638b8",
+      "bytes": 65620,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-522",
+      "name": "페르세스",
+      "slug": "perses",
+      "slot": "E02",
+      "source_png_sha256": "b39964980ea94f4b6aab9da997e921b24c93652e971b1fe2941fe351984d7981",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-522/E02.webp",
+      "webp_sha256": "c20940de24235ea41aeb30ff62caed677e652ca2217144228a1745429db59cc5",
+      "bytes": 65588,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-522",
+      "name": "페르세스",
+      "slug": "perses",
+      "slot": "E03",
+      "source_png_sha256": "c32032a40273391179e6b6f950b79138bda575e934b247822cc00c5fa1ca0c1f",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-522/E03.webp",
+      "webp_sha256": "4ca32e8bf6bcc357d59b85eb645ba1cf66715be9b8d48115d78d819a9c389b0e",
+      "bytes": 65820,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-522",
+      "name": "페르세스",
+      "slug": "perses",
+      "slot": "E04",
+      "source_png_sha256": "70bfb12664997a2a2915b6b721be7dfb3d24b0505d4a49d4e239faae02a3e29a",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-522/E04.webp",
+      "webp_sha256": "3707abef0e4d9a6536755e32bc76a9345184424a1bc4d66952f48e44793f0dee",
+      "bytes": 64166,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-522",
+      "name": "페르세스",
+      "slug": "perses",
+      "slot": "E05",
+      "source_png_sha256": "d58dd38c06e405ddbdfee76eab6135816dc4897dc8bc9c2e1e20e8a4089612d2",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-522/E05.webp",
+      "webp_sha256": "3dd63d744657b3772960c1389e9b1b84db804c16d97df71d35168cd0d7e1c73c",
+      "bytes": 63580,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-522",
+      "name": "페르세스",
+      "slug": "perses",
+      "slot": "E06",
+      "source_png_sha256": "5e7dcbc0b2ea87e98661fea3cb3eb893e5451197b9b182e2f54a01b0499565c3",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-522/E06.webp",
+      "webp_sha256": "6aa87aba0d7a7c825e2a8d102678dacc6841ba79a142ccfa1e7d38ed5ff33fda",
+      "bytes": 62592,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-522",
+      "name": "페르세스",
+      "slug": "perses",
+      "slot": "E07",
+      "source_png_sha256": "c6ea6c9a2e885d7960d3029ac503e26a9f833104325368c7a252f43f4bdf1f61",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-522/E07.webp",
+      "webp_sha256": "884f8ed2e764c285213352883c51ca25f19310721abcc2d01d0cec183829e1d6",
+      "bytes": 65814,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-523",
+      "name": "아이올로스",
+      "slug": "aeolus",
+      "slot": "E01",
+      "source_png_sha256": "eb1d63ff1ce92920c6f119fa9fd8f024083d0115dcdd28db0ec97e75941068c6",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-523/E01.webp",
+      "webp_sha256": "efbd36621f67810e1c361b1533a1ecaed8ca17a9c0b3aca53fee7edc2a379087",
+      "bytes": 96688,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-523",
+      "name": "아이올로스",
+      "slug": "aeolus",
+      "slot": "E02",
+      "source_png_sha256": "4732af206c30ec8633a47c9420d498cc8dee72518679f91efe8261072f339d35",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-523/E02.webp",
+      "webp_sha256": "ffe0160e6ea3857fcac9462c47e9576420427e186a028d5edd465423aad0d086",
+      "bytes": 97168,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-523",
+      "name": "아이올로스",
+      "slug": "aeolus",
+      "slot": "E03",
+      "source_png_sha256": "ddaa2d775a352bf321b6f98ae09910f482728d21c4e9236181aea2104d1a9243",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-523/E03.webp",
+      "webp_sha256": "71aa305394a83386b24e7913923e1556391b1e7a6d52ead90051124ecf6cb8dd",
+      "bytes": 95622,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-523",
+      "name": "아이올로스",
+      "slug": "aeolus",
+      "slot": "E04",
+      "source_png_sha256": "ab97ad6b3d09693fa530b830010e801ec96622ff826d36e628024b8483f79973",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-523/E04.webp",
+      "webp_sha256": "f3d1b2efe7abc4575486ed551db2ee6721d2654dd9927f4e98d56fb7a94f3b7a",
+      "bytes": 96758,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-523",
+      "name": "아이올로스",
+      "slug": "aeolus",
+      "slot": "E05",
+      "source_png_sha256": "9dd2e8722ec38a62ff24719c319cea8238dc9ef8f514eecd90f2c42ad3c70792",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-523/E05.webp",
+      "webp_sha256": "4e1b0fec87ff82db5bb539b2ef2ef0e658bcd84b16f5061a3c708910b28e0a5a",
+      "bytes": 95156,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-523",
+      "name": "아이올로스",
+      "slug": "aeolus",
+      "slot": "E06",
+      "source_png_sha256": "daef6bc6c68405181677a37729898cb89e21075a05c00db51e5e268d7bf2613b",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-523/E06.webp",
+      "webp_sha256": "767f23d4bda779cd051c6b8b5e81961a920e56fe9bed659b402cceeb73522611",
+      "bytes": 84330,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-523",
+      "name": "아이올로스",
+      "slug": "aeolus",
+      "slot": "E07",
+      "source_png_sha256": "d863a4c4cd1795ceda20dc6a039009925dabd7acdc1f99769f5a2e5ef2bddeda",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-523/E07.webp",
+      "webp_sha256": "cc7502d3202a2fbd310ba1627721024b9ce5f2579013bf4e11e8a9ec67ff60ee",
+      "bytes": 81332,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-524",
+      "name": "메노이티오스",
+      "slug": "menoetius",
+      "slot": "E01",
+      "source_png_sha256": "50c1d3ef8b9218dd2ba7af7ce9d35ff91e711efc10d2041f8950a3680a7c2c87",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-524/E01.webp",
+      "webp_sha256": "9ed2d1de3330741c11a820d8f171667a074486ec775b1cf768f31fbef67406b3",
+      "bytes": 71842,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-524",
+      "name": "메노이티오스",
+      "slug": "menoetius",
+      "slot": "E02",
+      "source_png_sha256": "aa5036fcb7b0338635c5cb417bb870cd7796f9f8212fe19a84c44aa384670554",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-524/E02.webp",
+      "webp_sha256": "2cda6b4147cbf4d8c52ac7d3684ac1fd98fac0718454b4f0cfbcf96d34db11ec",
+      "bytes": 67500,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-524",
+      "name": "메노이티오스",
+      "slug": "menoetius",
+      "slot": "E03",
+      "source_png_sha256": "a51d132561927fbffbf301bfc41830850436afb6bffad3fa312bae637d8d41c2",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-524/E03.webp",
+      "webp_sha256": "a545cb140c156b15b54cd53aa837548277ea33d56e9fa785f9e415cde73f67b6",
+      "bytes": 69448,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-524",
+      "name": "메노이티오스",
+      "slug": "menoetius",
+      "slot": "E04",
+      "source_png_sha256": "98250f88a8c31283113438857d80b9a6a4b9a8e5d4742a01bbf5eab84000c5ff",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-524/E04.webp",
+      "webp_sha256": "1565f65600d485de4044c23814d7da72b4023c25f6b3803a4d8b184159da339e",
+      "bytes": 68720,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-524",
+      "name": "메노이티오스",
+      "slug": "menoetius",
+      "slot": "E05",
+      "source_png_sha256": "f1e140ee4fd9140b0c62c842d32dff2e61239e7eac6f713291b48b103fbbfbcf",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-524/E05.webp",
+      "webp_sha256": "afad4266dacb71dd22ad63493b1484103be034cb15f0fc0c464d1d887d8f4c82",
+      "bytes": 69126,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-524",
+      "name": "메노이티오스",
+      "slug": "menoetius",
+      "slot": "E06",
+      "source_png_sha256": "9d11e011fba469214c8049de6ad7276ace3188c400257bd9df393537bc01d8ef",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-524/E06.webp",
+      "webp_sha256": "c24c77237190c2fd519848aa67c02135275b85509b86e07b86e3ae2d377d172c",
+      "bytes": 68942,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-524",
+      "name": "메노이티오스",
+      "slug": "menoetius",
+      "slot": "E07",
+      "source_png_sha256": "52e6efd5d5d78b84f88d00fc5a06b5a97126c5d7430b5daf32511303d2db3452",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-524/E07.webp",
+      "webp_sha256": "7b4a8423e0c7c440f5c74b91dfea762f29f304fa948708795f1eaf2ece9a6ac6",
+      "bytes": 65830,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_github_delivery"
+    }
+  ]
+}
