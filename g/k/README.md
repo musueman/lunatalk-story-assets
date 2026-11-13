@@ -8,8 +8,8 @@ The manifest records their hash chain and the publication hashes.
 ## Image mapping contract
 
 - Repository and branch: `musueman/lunatalk-story-assets`, `main`.
-- Stable path: `g/greek-r13/nsfw-stage1/{GR-ID}/{pose_###}.webp`.
-- Example: `https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/greek-r13/nsfw-stage1/GR-001/pose_039.webp`.
+- Stable path: `g/k/{GR-ID}/{pose_###}.webp`.
+- Example: `https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-001/pose_039.webp`.
 - Keep the established GR ID and the original three-digit pose number.
 - The production suffix `_00001_` is omitted from publication filenames.
 - `map.json` is the explicit ID/pose registry. `manifest.json` records each exact path, hash and review status.
