@@ -1,8 +1,8 @@
 # Greek R13 emotion delivery
 
-Seven Greek character emotion sets published on 2026-11-13.
+Ten Greek character emotion sets, including the 2026-11-14 additional-character update.
 
-- Characters: `GR-518` through `GR-524`
+- Characters: `GR-518` through `GR-527`
 - Slots: `E01` through `E07`
 - Delivery: 960x720 WebP, quality 78, method 6
 - Source PNGs remain outside this repository; `manifest.json` records source and output SHA-256 values.

@@ -2,7 +2,7 @@
   "at": "2026-11-13T04:58:14.828081+00:00",
   "run": "greek_additional_characters_20261113_r1",
   "format": "WebP",
-  "total": 49,
+  "total": 70,
   "source_preserved": true,
   "source_dimensions": [
     1280,
@@ -1044,6 +1044,459 @@
       "quality": 78,
       "method": 6,
       "review_status": "visual_review_passed_for_github_delivery"
+    },
+    {
+      "id": "GR-525",
+      "name": "타우마스",
+      "slug": "thaumas",
+      "slot": "E01",
+      "source_png_sha256": "15b7f848dec58d7b40876f32ddf662b0082a311806eec0018903add102921434",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-525/E01.webp",
+      "webp_sha256": "68c828e4f308c160cc4bb038ea01ba00c11f7a81686ec9d24866999ee1df5d31",
+      "bytes": 68894,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-525",
+      "name": "타우마스",
+      "slug": "thaumas",
+      "slot": "E02",
+      "source_png_sha256": "a19732d5c4470b63672c51594b7c70d84684aa487949da110bbe44383b6e7c67",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-525/E02.webp",
+      "webp_sha256": "e4d6dcc4e7305f8a8d09972432f4cb0ddaa72d14b942fb07c1c53687765a230e",
+      "bytes": 69910,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-525",
+      "name": "타우마스",
+      "slug": "thaumas",
+      "slot": "E03",
+      "source_png_sha256": "ddea31bf186ed5f0bdb538482ebfaef97b7792b1cb4ab2cdf066c7e133a1befb",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-525/E03.webp",
+      "webp_sha256": "d88994106610236aa08abe1b1dffd61cc82a444785e14b73d4137f5f8ed3a132",
+      "bytes": 67420,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-525",
+      "name": "타우마스",
+      "slug": "thaumas",
+      "slot": "E04",
+      "source_png_sha256": "7fc1275ffeedc2de3c416273ac21c4af9e65ffe545646eaad34b3f3b55c9a389",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-525/E04.webp",
+      "webp_sha256": "507b296a90b3dbb873aad6696e642066d8f827141f57c04bf2e10ad5270b39f2",
+      "bytes": 65718,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-525",
+      "name": "타우마스",
+      "slug": "thaumas",
+      "slot": "E05",
+      "source_png_sha256": "c88c62be0ca780c46e00d467eefc24ad9d4a550c9c1c6cb60c913fc0e3262319",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-525/E05.webp",
+      "webp_sha256": "73e6d6095a8a1afd8392277eadb248dffb8f904eb8fa9d1a2cd5da73b6d7128f",
+      "bytes": 66924,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-525",
+      "name": "타우마스",
+      "slug": "thaumas",
+      "slot": "E06",
+      "source_png_sha256": "7402c6ca8685ebc285590b3ac6a996d02f11bb1a26d8977c84f28610bc4eafe0",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-525/E06.webp",
+      "webp_sha256": "ac05ae1a95a0fb0df023ef324d1c3cab12f164f7cbde032eddd919155d7fe1c4",
+      "bytes": 69178,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-525",
+      "name": "타우마스",
+      "slug": "thaumas",
+      "slot": "E07",
+      "source_png_sha256": "499471a2de75fc17591ee17c2af7d322cb2c3be800b5d577602593b805a50f5e",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-525/E07.webp",
+      "webp_sha256": "97c9b9ecb92cd9e9d915c19d94ede5c021113ae0fe0ede0cc1049cc8fcc9e1cf",
+      "bytes": 67208,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-526",
+      "name": "캄페",
+      "slug": "kampe",
+      "slot": "E01",
+      "source_png_sha256": "78d3ea791efdd3642af4e8bc0176eaec3d7d08b43b33156589295ca20f753cd5",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-526/E01.webp",
+      "webp_sha256": "4d0d59ae655027becdbc90f9e91c9608c218e4e2f7a8ad9aef1e420cb96757b2",
+      "bytes": 47848,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-526",
+      "name": "캄페",
+      "slug": "kampe",
+      "slot": "E02",
+      "source_png_sha256": "e1cfaad2aa02a423bb1385485d6cf89707b988ee52585014100da10348e08b53",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-526/E02.webp",
+      "webp_sha256": "d81ecee5763129f9c537702234679cea740c3ca66b5ef0086c163cd788c1a21f",
+      "bytes": 48438,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-526",
+      "name": "캄페",
+      "slug": "kampe",
+      "slot": "E03",
+      "source_png_sha256": "653434bf74a9bd473a0126b887c61923fd37efc061dadb66c25ec265b36ee5f7",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-526/E03.webp",
+      "webp_sha256": "f35b9e08fd7eb9b3b12e22bb2d77104fde4ab883b8eebfe45472bdfce7ca52a1",
+      "bytes": 48292,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-526",
+      "name": "캄페",
+      "slug": "kampe",
+      "slot": "E04",
+      "source_png_sha256": "3b5bcfbc3070f2924d316d11ed646af81761412943d80149ff078f43de51395e",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-526/E04.webp",
+      "webp_sha256": "dc09021f0783fc93f734b957968a3db80b09892e64440183259fc8bde9047884",
+      "bytes": 46188,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-526",
+      "name": "캄페",
+      "slug": "kampe",
+      "slot": "E05",
+      "source_png_sha256": "1c276b3a3ef1bc82dd1325d7e2ff2d42dde52ee8f0016814c1ba4cf768fa0e2a",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-526/E05.webp",
+      "webp_sha256": "349081cc0824fbeaa802c5c034c7a17bdf89d68ced7eda3f125900760a9688b7",
+      "bytes": 46546,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-526",
+      "name": "캄페",
+      "slug": "kampe",
+      "slot": "E06",
+      "source_png_sha256": "e148052dbbd0da89acb3e031f5c9cce36bda550d869fbfd5fa3e5ea9dae00903",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-526/E06.webp",
+      "webp_sha256": "d13a81ee5ae81102127561027426abda97e75fefcbb37d320fb32b676fb512ae",
+      "bytes": 45192,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-526",
+      "name": "캄페",
+      "slug": "kampe",
+      "slot": "E07",
+      "source_png_sha256": "eb5358c6c20629e9aaaad2067bc023eb3c97c7c5adfde8008021dd42fbe78b99",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-526/E07.webp",
+      "webp_sha256": "a07d1db925f28f6448fabbae044ced7c8055b2b0f89548fd0a469c716799b812",
+      "bytes": 48458,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-527",
+      "name": "페이토",
+      "slug": "peitho",
+      "slot": "E01",
+      "source_png_sha256": "54e785df9b4517b231f61c7564804dfd2ba04e4f6bba3ee1fcc952b593f7b78e",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-527/E01.webp",
+      "webp_sha256": "8733f76fd0fee8fa2611edf4dd3d4e9fb48debef7d8ae190f75aaa5915269459",
+      "bytes": 77936,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-527",
+      "name": "페이토",
+      "slug": "peitho",
+      "slot": "E02",
+      "source_png_sha256": "698347a0f2017ea3903f81449e42bf3589f8194699553b4e37e88192f0d98d69",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-527/E02.webp",
+      "webp_sha256": "ba93dc5d570ba1db1d42603c942010ea5d09da51db6b77eebff87b281a0b201f",
+      "bytes": 74620,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-527",
+      "name": "페이토",
+      "slug": "peitho",
+      "slot": "E03",
+      "source_png_sha256": "7c29f0d506ba74a89d13e0e455a660dd11ea3f3431da40cab27526bd02c0fc6f",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-527/E03.webp",
+      "webp_sha256": "4327dc0863e38517bd450c956584df57f7854aea4cd554e4596054fcf6dc015d",
+      "bytes": 64590,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-527",
+      "name": "페이토",
+      "slug": "peitho",
+      "slot": "E04",
+      "source_png_sha256": "4a10aaec79d38c12efe8c6bc6d077f40b5479052a70bbe34b93725057df74c17",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-527/E04.webp",
+      "webp_sha256": "28f2641e97b89102017c71593107dd9977e7a8cd0b89879a3640a974c9225a26",
+      "bytes": 73016,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-527",
+      "name": "페이토",
+      "slug": "peitho",
+      "slot": "E05",
+      "source_png_sha256": "ab3051f378d8feb53bcc38f4176486852ec40a516555b3863b056579513ce1ad",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-527/E05.webp",
+      "webp_sha256": "7ea3415c7161dfe20d6b1721883f1197112e98766d46e0b05809d11d8d5d9012",
+      "bytes": 69138,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-527",
+      "name": "페이토",
+      "slug": "peitho",
+      "slot": "E06",
+      "source_png_sha256": "f79c3401d2c078eb03720bde766afe01edb9b488ad3222bb09c4ee6d9f5f015b",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-527/E06.webp",
+      "webp_sha256": "5d4c32cb3d2377c367e572c620d7c80d2eb97e72d36d53eee24327261cd4659a",
+      "bytes": 69446,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    },
+    {
+      "id": "GR-527",
+      "name": "페이토",
+      "slug": "peitho",
+      "slot": "E07",
+      "source_png_sha256": "c004b70ec4b4d0fc4e696cb01d9c4f105ded5b8fd36aa3f2c2dd4dfc5712afa1",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "repository_path": "g/greek-r13/GR-527/E07.webp",
+      "webp_sha256": "844e99d6ccdf0063d295977039e4e1a3e02ee182a1262aa24d7ed87c229828f9",
+      "bytes": 71670,
+      "dimensions": [
+        960,
+        720
+      ],
+      "quality": 78,
+      "method": 6,
+      "review_status": "visual_review_passed_for_public_delivery"
+    }
+  ],
+  "updated_at": "2026-11-14T12:57:22.427958+00:00",
+  "updates": [
+    {
+      "run": "greek_additional_characters_20261114_r1",
+      "ids": [
+        "GR-525",
+        "GR-526",
+        "GR-527"
+      ],
+      "entries": 21
     }
   ]
 }

@@ -1,4 +1,4 @@
-﻿id,name,slot,repository_path,review_reasons
+id,name,slot,repository_path,review_reasons
 GR-001,가이아,pose_039,g/k/GR-001/pose_039.webp,"No anatomy detected, check visibility in original"
 GR-003,므네모시네,pose_039,g/k/GR-003/pose_039.webp,"No anatomy detected, check visibility in original"
 GR-004,닉스,pose_039,g/k/GR-004/pose_039.webp,"No anatomy detected, check visibility in original"
@@ -2199,3 +2199,24 @@ GR-454,나우시카아,pose_107,g/k/GR-454/pose_107.webp,isolated detection unco
 GR-469,헤르미오네,pose_107,g/k/GR-469/pose_107.webp,isolated detection unconfirmed in crop
 GR-483,메두사,pose_107,g/k/GR-483/pose_107.webp,"No anatomy detected, check visibility in original"
 GR-497,에우리알레,pose_107,g/k/GR-497/pose_107.webp,"No anatomy detected, check visibility in original"
+GR-526,캄페,pose_041,g/k/GR-526/pose_041.webp,No target detected; check visibility in original
+GR-526,캄페,pose_042,g/k/GR-526/pose_042.webp,No target detected; check visibility in original
+GR-526,캄페,pose_046,g/k/GR-526/pose_046.webp,hand outline needs review
+GR-526,캄페,pose_065,g/k/GR-526/pose_065.webp,isolated detection unconfirmed in crop
+GR-526,캄페,pose_066,g/k/GR-526/pose_066.webp,hand and anatomy outlines conflict
+GR-526,캄페,pose_067,g/k/GR-526/pose_067.webp,hand and anatomy outlines conflict
+GR-526,캄페,pose_079,g/k/GR-526/pose_079.webp,hand outline needs review
+GR-526,캄페,pose_080,g/k/GR-526/pose_080.webp,hand and anatomy outlines conflict
+GR-526,캄페,pose_086,g/k/GR-526/pose_086.webp,hand outline needs review
+GR-527,페이토,pose_039,g/k/GR-527/pose_039.webp,No target detected; check visibility in original
+GR-527,페이토,pose_041,g/k/GR-527/pose_041.webp,No target detected; check visibility in original
+GR-527,페이토,pose_042,g/k/GR-527/pose_042.webp,No target detected; check visibility in original
+GR-527,페이토,pose_057,g/k/GR-527/pose_057.webp,isolated detection unconfirmed in crop
+GR-527,페이토,pose_058,g/k/GR-527/pose_058.webp,isolated detection unconfirmed in crop
+GR-527,페이토,pose_064,g/k/GR-527/pose_064.webp,isolated detection unconfirmed in crop
+GR-527,페이토,pose_065,g/k/GR-527/pose_065.webp,isolated detection unconfirmed in crop
+GR-527,페이토,pose_079,g/k/GR-527/pose_079.webp,hand outline needs review
+GR-527,페이토,pose_080,g/k/GR-527/pose_080.webp,hand outline needs review
+GR-527,페이토,pose_086,g/k/GR-527/pose_086.webp,hand outline needs review
+GR-527,페이토,pose_091,g/k/GR-527/pose_091.webp,No target detected; check visibility in original
+GR-527,페이토,pose_097,g/k/GR-527/pose_097.webp,No target detected; check visibility in original

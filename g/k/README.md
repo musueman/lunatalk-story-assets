@@ -1,7 +1,7 @@
 # Greek NSFW stage-1 delivery
 
-7,141 images covering 193 adult-female character identities and 37 registered poses.
-This delivery contains v28 stage-1 redaction and 1024x768 WebP publication copies at Q85/method 6.
+7,215 images covering 195 adult-female character identities and 37 registered poses.
+This delivery contains v28 stage-1 redaction and Q85/method 6 WebP publication copies: 7,141 at 1024x768 and the 74-image 2026-11-14 additional-character update at 1080x1080.
 Original canonical PNGs, working WebPs and lossless stage-1 results remain outside this repository.
 The manifest records their hash chain and the publication hashes.
 
