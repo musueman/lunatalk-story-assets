@@ -23,8 +23,8 @@
   "redactor_version": "v28",
   "redactor_sha256": "ac767818f0f2b5e24b22d5f527231acb6dd3e13fbc27cd1be40374cc8b623710",
   "visual_review_complete": false,
-  "visual_review_candidates": 2221,
-  "total_bytes": 510985720,
+  "visual_review_candidates": 2219,
+  "total_bytes": 510960012,
   "poses": [
     {
       "code": "pose_039",
@@ -204977,21 +204977,27 @@
       "repository_path": "g/k/GR-526/pose_054.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_054.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_054/GR-526_00001_.webp",
-      "source_png_sha256": "e940824c525f1457521e91653ba249ecc978c2cbb695e51758c93bc157844dee",
-      "source_working_sha256": "e940824c525f1457521e91653ba249ecc978c2cbb695e51758c93bc157844dee",
+      "source_png_sha256": "229dd2a4c04e603bf6c309fa7b8f00ca6f3baf81ebd2474de9636a2b57aa5669",
+      "source_working_sha256": "229dd2a4c04e603bf6c309fa7b8f00ca6f3baf81ebd2474de9636a2b57aa5669",
       "source_stage1_sha256": "83bd86f1b6b6609338e919c542a0ecdf5845640c309908acc0bd6c455e880d17",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "ebefd5cdaf83a304ac5c32cecca4814a44dbb6a6cac169ff0c17d0fd589f5cb9",
-      "bytes": 176046,
+      "webp_sha256": "7a72ed424c7f054df035c45804172118fd70facbfeccf2bdd75d648158307b4b",
+      "bytes": 174948,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "ebefd5cdaf83a304ac5c32cecca4814a44dbb6a6cac169ff0c17d0fd589f5cb9",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_054\\GR-526_00001_.png",
+      "source_repair_png_sha256": "229dd2a4c04e603bf6c309fa7b8f00ca6f3baf81ebd2474de9636a2b57aa5669"
     },
     {
       "id": "GR-526",
@@ -205005,21 +205011,27 @@
       "repository_path": "g/k/GR-526/pose_055.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_055.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_055/GR-526_00001_.webp",
-      "source_png_sha256": "b8f1551a8117dfba13c7cf6c44fb33a2814f9919f96e5c959f33b5c1b7b6667a",
-      "source_working_sha256": "b8f1551a8117dfba13c7cf6c44fb33a2814f9919f96e5c959f33b5c1b7b6667a",
+      "source_png_sha256": "530e3306943b8d1d0754a57af1bb476bb44fce2aae2c887f144685d75f8b849c",
+      "source_working_sha256": "530e3306943b8d1d0754a57af1bb476bb44fce2aae2c887f144685d75f8b849c",
       "source_stage1_sha256": "23ace3ddaba393ef1ad62db48e6ee9184de2241dbec829bcfa6a219f51744a3f",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "c6bc73d129b0d3afd7515ce5c000562f2ee1656a0891eb12129af44385903e21",
-      "bytes": 153418,
+      "webp_sha256": "498f57128779e0ba2441247253b6ddc125149c367ef784f88e6bb95b75c400cf",
+      "bytes": 147268,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "c6bc73d129b0d3afd7515ce5c000562f2ee1656a0891eb12129af44385903e21",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_055\\GR-526_00001_.png",
+      "source_repair_png_sha256": "530e3306943b8d1d0754a57af1bb476bb44fce2aae2c887f144685d75f8b849c"
     },
     {
       "id": "GR-526",
@@ -205117,21 +205129,27 @@
       "repository_path": "g/k/GR-526/pose_059.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_059.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_059/GR-526_00001_.webp",
-      "source_png_sha256": "b1359d2d4d04d252f9200628af404a314d8e938e1f7fba8699c7e1bab593b11b",
-      "source_working_sha256": "b1359d2d4d04d252f9200628af404a314d8e938e1f7fba8699c7e1bab593b11b",
+      "source_png_sha256": "9be06b6456d95f85f100866c1b959873e902316d3fb8dfee9e7451c63d87aed9",
+      "source_working_sha256": "9be06b6456d95f85f100866c1b959873e902316d3fb8dfee9e7451c63d87aed9",
       "source_stage1_sha256": "1797123ab25debdd620c5aa939df60b0de738d614b7fbf7d5fcf2fb2160c0378",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "fc85ab4dbd8e25928d083e740ccddff441af3dd6e799fa4949161f597bccb052",
-      "bytes": 140494,
+      "webp_sha256": "fa868452bb17b0d9731761903e0d43b8538e30ded7f4d0f22ebff92561f49e34",
+      "bytes": 145112,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "fc85ab4dbd8e25928d083e740ccddff441af3dd6e799fa4949161f597bccb052",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_059\\GR-526_00001_.png",
+      "source_repair_png_sha256": "9be06b6456d95f85f100866c1b959873e902316d3fb8dfee9e7451c63d87aed9"
     },
     {
       "id": "GR-526",
@@ -205145,21 +205163,27 @@
       "repository_path": "g/k/GR-526/pose_060.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_060.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_060/GR-526_00001_.webp",
-      "source_png_sha256": "e8c1598dce7f646941e60dd2bba38627400bdbc7caaeac1e122acede40fb90c5",
-      "source_working_sha256": "e8c1598dce7f646941e60dd2bba38627400bdbc7caaeac1e122acede40fb90c5",
+      "source_png_sha256": "e1f85a78f14c79915b38fdfd432498154e3eda8b23485a5229653a6729194a71",
+      "source_working_sha256": "e1f85a78f14c79915b38fdfd432498154e3eda8b23485a5229653a6729194a71",
       "source_stage1_sha256": "65b908c565a253fd8faca0212a1803a208aa2747238771bc812d2f7d16a47fe6",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "5593fb5bcb6034ad6823859331257f38974818a4f5204344eb20ea9e9dc196ad",
-      "bytes": 162924,
+      "webp_sha256": "2bd4c13ee0546a20749beb37f498140fc2e0ebe3c94eb4900c2422b394bc2d46",
+      "bytes": 155674,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "5593fb5bcb6034ad6823859331257f38974818a4f5204344eb20ea9e9dc196ad",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_060\\GR-526_00001_.png",
+      "source_repair_png_sha256": "e1f85a78f14c79915b38fdfd432498154e3eda8b23485a5229653a6729194a71"
     },
     {
       "id": "GR-526",
@@ -205173,21 +205197,27 @@
       "repository_path": "g/k/GR-526/pose_061.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_061.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_061/GR-526_00001_.webp",
-      "source_png_sha256": "0b23f9e5592c37d788e75ae0af2d898f155cf62190715ce18b9a62f1aba13de0",
-      "source_working_sha256": "0b23f9e5592c37d788e75ae0af2d898f155cf62190715ce18b9a62f1aba13de0",
+      "source_png_sha256": "c1757e8e4f95ba9dec10eeaa196ac2812f87a31746d2e7773ea3d730a8491cc4",
+      "source_working_sha256": "c1757e8e4f95ba9dec10eeaa196ac2812f87a31746d2e7773ea3d730a8491cc4",
       "source_stage1_sha256": "36580c928d3ed06188995370f9cc609252e2fe850d176c9fdeba59ed5f242a41",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "c3cc1736054849574f2b63c00840dc3042af5e5fa406c5e44d569ef0ef76be8f",
-      "bytes": 177442,
+      "webp_sha256": "7616000f2e7e4a0fc557c3a6918291fbee286c9f41e68c53043025dcf6529eae",
+      "bytes": 164810,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "c3cc1736054849574f2b63c00840dc3042af5e5fa406c5e44d569ef0ef76be8f",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_061\\GR-526_00001_.png",
+      "source_repair_png_sha256": "c1757e8e4f95ba9dec10eeaa196ac2812f87a31746d2e7773ea3d730a8491cc4"
     },
     {
       "id": "GR-526",
@@ -205229,21 +205259,27 @@
       "repository_path": "g/k/GR-526/pose_063.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_063.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_063/GR-526_00001_.webp",
-      "source_png_sha256": "5a52ba75abf937d12403002448b7a9e27d8d5e498ead3fbc30d82e891eb92db2",
-      "source_working_sha256": "5a52ba75abf937d12403002448b7a9e27d8d5e498ead3fbc30d82e891eb92db2",
+      "source_png_sha256": "d2a4d8edef5bbc0d4b074b519d2e4e157f593bef2b74a0aadd34355e748585fa",
+      "source_working_sha256": "d2a4d8edef5bbc0d4b074b519d2e4e157f593bef2b74a0aadd34355e748585fa",
       "source_stage1_sha256": "4de1c3f12db0ff8ecdf10633138d72d108e37a3810d36f6bfeddc8bcc27ce4e6",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "ab1cf7fd44926f3dd4ff9f8fef698c24ab658b5dd7d031d06d8da861ab8a611e",
-      "bytes": 190154,
+      "webp_sha256": "fbf6f39de9307005c33bb451f91e64a3915fe0c919b75454355a24d672095087",
+      "bytes": 199622,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "ab1cf7fd44926f3dd4ff9f8fef698c24ab658b5dd7d031d06d8da861ab8a611e",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_063\\GR-526_00001_.png",
+      "source_repair_png_sha256": "d2a4d8edef5bbc0d4b074b519d2e4e157f593bef2b74a0aadd34355e748585fa"
     },
     {
       "id": "GR-526",
@@ -205375,23 +205411,27 @@
       "repository_path": "g/k/GR-526/pose_079.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_079.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_079/GR-526_00001_.webp",
-      "source_png_sha256": "4b883fb8e2f544ebd12a60d3f1b644576659ac3cd6bdacbf8b89143feb18e165",
-      "source_working_sha256": "4b883fb8e2f544ebd12a60d3f1b644576659ac3cd6bdacbf8b89143feb18e165",
+      "source_png_sha256": "6b6b287fe640fea7ee76fa5fd8c0a76c44e551ad16a812f30f8b1b430c2b7590",
+      "source_working_sha256": "6b6b287fe640fea7ee76fa5fd8c0a76c44e551ad16a812f30f8b1b430c2b7590",
       "source_stage1_sha256": "9547ec623971f9bcf58608a08b038aa8aaea4a5f7c596df2b9b179889a166067",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "75f18b410b6fd2ea37a53191e50db805d4c7a65c0a7a87761f600188e77a1019",
-      "bytes": 137416,
+      "webp_sha256": "6a41a7bcf2ebf02b9420deb7bdf3cc73bfc8e7f709c274b3b23a2807665d5423",
+      "bytes": 127996,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_visual_review_required",
-      "review_required": true,
+      "review_status": "visual_reaudit_passed_20261115",
+      "review_required": false,
       "review_reasons": [
-        "hand outline needs review"
-      ]
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "75f18b410b6fd2ea37a53191e50db805d4c7a65c0a7a87761f600188e77a1019",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_079\\GR-526_00001_.png",
+      "source_repair_png_sha256": "6b6b287fe640fea7ee76fa5fd8c0a76c44e551ad16a812f30f8b1b430c2b7590"
     },
     {
       "id": "GR-526",
@@ -205435,21 +205475,27 @@
       "repository_path": "g/k/GR-526/pose_085.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_085.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_085/GR-526_00001_.webp",
-      "source_png_sha256": "efd709d5104e385a22a2546ccbc41eabda8a5c82b098de0ac74650202d9eed7b",
-      "source_working_sha256": "efd709d5104e385a22a2546ccbc41eabda8a5c82b098de0ac74650202d9eed7b",
+      "source_png_sha256": "abac79a16925c7ad26cf53511c68a2aa5e67d8892476dbf6ab0d65f84cb72158",
+      "source_working_sha256": "abac79a16925c7ad26cf53511c68a2aa5e67d8892476dbf6ab0d65f84cb72158",
       "source_stage1_sha256": "04e41c5de4e71c8623b296914311edd33a9b799fe246cd00c80474790633703e",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "0a2439092776ae4fe659540ff7e0803835a70b217a3f42944822ecb56b6e5ca8",
-      "bytes": 133306,
+      "webp_sha256": "eafb34507f16988705ebecffb1856480c3c445c43c13fa75e8d4bd0a2b5f489e",
+      "bytes": 138624,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "0a2439092776ae4fe659540ff7e0803835a70b217a3f42944822ecb56b6e5ca8",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_085\\GR-526_00001_.png",
+      "source_repair_png_sha256": "abac79a16925c7ad26cf53511c68a2aa5e67d8892476dbf6ab0d65f84cb72158"
     },
     {
       "id": "GR-526",
@@ -205549,21 +205595,27 @@
       "repository_path": "g/k/GR-526/pose_090.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_090.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_090/GR-526_00001_.webp",
-      "source_png_sha256": "f642316532ad04cb14e5929cebd45a1b324768f1efd1e7a64276b07384ea4cd7",
-      "source_working_sha256": "f642316532ad04cb14e5929cebd45a1b324768f1efd1e7a64276b07384ea4cd7",
+      "source_png_sha256": "6f9e1a952ff83d03de39948df49bdd148e78275c1f2e6356c332b7a422445f3c",
+      "source_working_sha256": "6f9e1a952ff83d03de39948df49bdd148e78275c1f2e6356c332b7a422445f3c",
       "source_stage1_sha256": "3039a8ef300b8ac1a79184e666c8a6bd50dc29d0744f5ac0dffccbf86691cde1",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "a8960df61a0e4a5f16432d846150226290a38243b727c5972cf72bc2446aa0a9",
-      "bytes": 153106,
+      "webp_sha256": "12f0a567f6dd59a55b88e4bde800d9bc29c832327aaa287437273fbc1e762a70",
+      "bytes": 150720,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "a8960df61a0e4a5f16432d846150226290a38243b727c5972cf72bc2446aa0a9",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_090\\GR-526_00001_.png",
+      "source_repair_png_sha256": "6f9e1a952ff83d03de39948df49bdd148e78275c1f2e6356c332b7a422445f3c"
     },
     {
       "id": "GR-526",
@@ -205577,21 +205629,27 @@
       "repository_path": "g/k/GR-526/pose_091.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_091.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_091/GR-526_00001_.webp",
-      "source_png_sha256": "740b9c5e511584adcde3a011b5360e21b5d33cf397300bbc3e4cd4261cc86f06",
-      "source_working_sha256": "740b9c5e511584adcde3a011b5360e21b5d33cf397300bbc3e4cd4261cc86f06",
+      "source_png_sha256": "bc7a62778ffe1275119f20ebf95cbaa9a85c9bc36565c1ae15520674dbdf6b30",
+      "source_working_sha256": "bc7a62778ffe1275119f20ebf95cbaa9a85c9bc36565c1ae15520674dbdf6b30",
       "source_stage1_sha256": "81c202587467599eb3713e0eb40fbec925fbc99f29a1ed0d6f60dce8fd032734",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "322f4f24f8ed739b1994d70f9b1e6821437f46ab0c4cdeff56fd3c591dfec1c7",
-      "bytes": 148414,
+      "webp_sha256": "c8573c665ae5447972f2ece282fa27164cda1dd0e0cbf2a7f25aa70d1c32e710",
+      "bytes": 144918,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "322f4f24f8ed739b1994d70f9b1e6821437f46ab0c4cdeff56fd3c591dfec1c7",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_091\\GR-526_00001_.png",
+      "source_repair_png_sha256": "bc7a62778ffe1275119f20ebf95cbaa9a85c9bc36565c1ae15520674dbdf6b30"
     },
     {
       "id": "GR-526",
@@ -205605,21 +205663,27 @@
       "repository_path": "g/k/GR-526/pose_092.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_092.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_092/GR-526_00001_.webp",
-      "source_png_sha256": "cfab5f94a77fa167858ee1f0c3d9e33f3a021d48cf2559556a5462eeaa5990f2",
-      "source_working_sha256": "cfab5f94a77fa167858ee1f0c3d9e33f3a021d48cf2559556a5462eeaa5990f2",
+      "source_png_sha256": "0ce7649d06bc9e9c31d6961c2f58fe349746411f9b85a8c4e7c5fc03a02a4d96",
+      "source_working_sha256": "0ce7649d06bc9e9c31d6961c2f58fe349746411f9b85a8c4e7c5fc03a02a4d96",
       "source_stage1_sha256": "4d203eabfb62cbf4ddcce726d7b932e758b61ae59cda079df8d18a72e2d93d71",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "0fe47bf223a8eb9e97e0a40fdb3beca10e67057b52e9dc585e5c7d1223fb285d",
-      "bytes": 149454,
+      "webp_sha256": "4d8c562c0a58042a07f106deb8dd1ae387b0761c884621dffe2400839511beae",
+      "bytes": 145946,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "0fe47bf223a8eb9e97e0a40fdb3beca10e67057b52e9dc585e5c7d1223fb285d",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_092\\GR-526_00001_.png",
+      "source_repair_png_sha256": "0ce7649d06bc9e9c31d6961c2f58fe349746411f9b85a8c4e7c5fc03a02a4d96"
     },
     {
       "id": "GR-526",
@@ -205633,21 +205697,27 @@
       "repository_path": "g/k/GR-526/pose_093.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_093.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_093/GR-526_00001_.webp",
-      "source_png_sha256": "501e15cc31a9c9f8fef4cfb27c1d6ffe9a06fe4347d2e5bab84d9579da9c9566",
-      "source_working_sha256": "501e15cc31a9c9f8fef4cfb27c1d6ffe9a06fe4347d2e5bab84d9579da9c9566",
+      "source_png_sha256": "100c739f0945e3437bee17c06e25d3d2160cbfe01d62467239f435b180e9c6b7",
+      "source_working_sha256": "100c739f0945e3437bee17c06e25d3d2160cbfe01d62467239f435b180e9c6b7",
       "source_stage1_sha256": "dd304d7bcaa2f3e984259b0d5700fc0f345301dd87396bb9d9da88bd130450bd",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "d104e56b2be97bf0ea5e24e6cb55382d084fc6d1ccb758a71d02f4188b79968f",
-      "bytes": 147770,
+      "webp_sha256": "f8903ca779c4b1bbc2be0e22d8b1ec1ac19a1fecba6ca7e702cd3fd3c52ebf78",
+      "bytes": 157666,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "d104e56b2be97bf0ea5e24e6cb55382d084fc6d1ccb758a71d02f4188b79968f",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_093\\GR-526_00001_.png",
+      "source_repair_png_sha256": "100c739f0945e3437bee17c06e25d3d2160cbfe01d62467239f435b180e9c6b7"
     },
     {
       "id": "GR-526",
@@ -205689,21 +205759,27 @@
       "repository_path": "g/k/GR-526/pose_095.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-526/pose_095.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_095/GR-526_00001_.webp",
-      "source_png_sha256": "ca5f150066008741dc38e57e8b188625fe94c07019bfc449f20f7d9b2fcc1f47",
-      "source_working_sha256": "ca5f150066008741dc38e57e8b188625fe94c07019bfc449f20f7d9b2fcc1f47",
+      "source_png_sha256": "c049505c062d10efda5059f1b93bf3526dac04e30d86136e1a303f8c3641b38c",
+      "source_working_sha256": "c049505c062d10efda5059f1b93bf3526dac04e30d86136e1a303f8c3641b38c",
       "source_stage1_sha256": "9e7d09f991e5885f47988d876a7f8a7f2edb78613af1ee4ebddd2a5043ef4e37",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "c6a6ed43b8f445e4ca3462c3d12e0b4c9c4007d763bacf5b90271eb6b1b74cbb",
-      "bytes": 177920,
+      "webp_sha256": "579381aeff8da4168a21f7eb68a9ac13e262e36a42572726226bf3dd9c060adf",
+      "bytes": 184320,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_no_automatic_review_flag",
+      "review_status": "visual_reaudit_passed_20261115",
       "review_required": false,
-      "review_reasons": []
+      "review_reasons": [
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "c6a6ed43b8f445e4ca3462c3d12e0b4c9c4007d763bacf5b90271eb6b1b74cbb",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r3_kampe_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r3_kampe_repair\\pose_095\\GR-526_00001_.png",
+      "source_repair_png_sha256": "c049505c062d10efda5059f1b93bf3526dac04e30d86136e1a303f8c3641b38c"
     },
     {
       "id": "GR-526",
@@ -206145,23 +206221,27 @@
       "repository_path": "g/k/GR-527/pose_058.webp",
       "url": "https://raw.githubusercontent.com/musueman/lunatalk-story-assets/main/g/k/GR-527/pose_058.webp",
       "source_stage1_relative_path": "nsfw-new-characters-20261114-r1/review/stage1-v28/1-anatomy/pose_058/GR-527_00001_.webp",
-      "source_png_sha256": "7821fe1f158a3defeef6ffdab3715ed889707b63b1f42e46455cdc768f939ded",
-      "source_working_sha256": "7821fe1f158a3defeef6ffdab3715ed889707b63b1f42e46455cdc768f939ded",
+      "source_png_sha256": "c0514f637bb04832edd9f79ad5cd2d832bece94019befb4f49b2565d4a50d28a",
+      "source_working_sha256": "c0514f637bb04832edd9f79ad5cd2d832bece94019befb4f49b2565d4a50d28a",
       "source_stage1_sha256": "2ae805a51058930839e4aebd97baf8c125949143702f826bd9086b77b9239fd9",
       "source_group": "additional-women-20261114-r1",
-      "webp_sha256": "753d7e9176e0bf1c1960cbb1d61ee65ff2dd3fce4368c034a04e863450dff85e",
-      "bytes": 153638,
+      "webp_sha256": "aa4ce3c16b7b72a79bdd146f7db03d574132e46612d46c920ce02bc9ab709577",
+      "bytes": 138170,
       "dimensions": [
         1080,
         1080
       ],
       "quality": 85,
       "method": 6,
-      "review_status": "stage1_processed_visual_review_required",
-      "review_required": true,
+      "review_status": "visual_reaudit_passed_20261115",
+      "review_required": false,
       "review_reasons": [
-        "isolated detection unconfirmed in crop"
-      ]
+        "visual re-audit passed: no duplicate/fused subject, no extra limbs, no modern domestic setting"
+      ],
+      "previous_public_webp_sha256": "753d7e9176e0bf1c1960cbb1d61ee65ff2dd3fce4368c034a04e863450dff85e",
+      "source_repair_run": "greek_new_adult_women_nsfw_20261115_r2_repair",
+      "source_repair_png": "D:\\ComfyUI_Qwen21\\이미지 생성\\2026-11-14\\greek_new_adult_women_nsfw_20261115_r2_repair\\pose_058\\GR-527_00001_.png",
+      "source_repair_png_sha256": "c0514f637bb04832edd9f79ad5cd2d832bece94019befb4f49b2565d4a50d28a"
     },
     {
       "id": "GR-527",
@@ -206850,11 +206930,21 @@
       "review_reasons": []
     }
   ],
-  "updated_at": "2026-11-14T12:57:22.432521+00:00",
+  "updated_at": "2026-11-14T15:43:19.980118+00:00",
   "additional_dimension_sets": {
     "additional_women_20261114_r1": [
       1080,
       1080
     ]
-  }
+  },
+  "updates": [
+    {
+      "run": "additional-character-visual-reaudit-20261115",
+      "entries": 14,
+      "source_runs": [
+        "greek_new_adult_women_nsfw_20261115_r2_repair",
+        "greek_new_adult_women_nsfw_20261115_r3_kampe_repair"
+      ]
+    }
+  ]
 }
