@@ -44,8 +44,8 @@
     "pose_097",
     "pose_107"
   ],
-  "character_count": 195,
-  "total": 7215,
+  "character_count": 196,
+  "total": 7252,
   "policy": {
     "identity": "Keep the established GR ID. Do not renumber characters or poses.",
     "slot": "Use the exact registered pose_### code. Missing pose numbers remain absent.",
@@ -10851,7 +10851,64 @@
         "pose_091",
         "pose_097"
       ]
+    },
+    "GR-517": {
+      "name": "트리케",
+      "images": {
+        "pose_039": "GR-517/pose_039.webp",
+        "pose_041": "GR-517/pose_041.webp",
+        "pose_042": "GR-517/pose_042.webp",
+        "pose_046": "GR-517/pose_046.webp",
+        "pose_050": "GR-517/pose_050.webp",
+        "pose_051": "GR-517/pose_051.webp",
+        "pose_052": "GR-517/pose_052.webp",
+        "pose_053": "GR-517/pose_053.webp",
+        "pose_054": "GR-517/pose_054.webp",
+        "pose_055": "GR-517/pose_055.webp",
+        "pose_056": "GR-517/pose_056.webp",
+        "pose_057": "GR-517/pose_057.webp",
+        "pose_058": "GR-517/pose_058.webp",
+        "pose_059": "GR-517/pose_059.webp",
+        "pose_060": "GR-517/pose_060.webp",
+        "pose_061": "GR-517/pose_061.webp",
+        "pose_062": "GR-517/pose_062.webp",
+        "pose_063": "GR-517/pose_063.webp",
+        "pose_064": "GR-517/pose_064.webp",
+        "pose_065": "GR-517/pose_065.webp",
+        "pose_066": "GR-517/pose_066.webp",
+        "pose_067": "GR-517/pose_067.webp",
+        "pose_079": "GR-517/pose_079.webp",
+        "pose_080": "GR-517/pose_080.webp",
+        "pose_085": "GR-517/pose_085.webp",
+        "pose_086": "GR-517/pose_086.webp",
+        "pose_087": "GR-517/pose_087.webp",
+        "pose_088": "GR-517/pose_088.webp",
+        "pose_090": "GR-517/pose_090.webp",
+        "pose_091": "GR-517/pose_091.webp",
+        "pose_092": "GR-517/pose_092.webp",
+        "pose_093": "GR-517/pose_093.webp",
+        "pose_094": "GR-517/pose_094.webp",
+        "pose_095": "GR-517/pose_095.webp",
+        "pose_096": "GR-517/pose_096.webp",
+        "pose_097": "GR-517/pose_097.webp",
+        "pose_107": "GR-517/pose_107.webp"
+      },
+      "review_required": [
+        "pose_039",
+        "pose_041",
+        "pose_042",
+        "pose_046",
+        "pose_056",
+        "pose_061",
+        "pose_064",
+        "pose_065",
+        "pose_066",
+        "pose_086",
+        "pose_091",
+        "pose_094",
+        "pose_096"
+      ]
     }
   },
-  "updated_at": "2026-11-14T16:25:43.888485+00:00"
+  "updated_at": "2026-11-16T08:34:00.787016+00:00"
 }
